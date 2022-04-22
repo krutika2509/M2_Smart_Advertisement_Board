@@ -25,7 +25,7 @@ We also know that ATmega 328 in simulide has predefined VCC and GND conection so
 | 5_Report |	Detaied Process and Goal |
 | 6_Output |	Images and videos of output |
 
-# Project in working conditon:
+# Project in working condition:
 
 
 ![backup2](https://user-images.githubusercontent.com/104137902/164784132-c4f4faa6-8efe-4c70-887a-ad50ae339048.png)
