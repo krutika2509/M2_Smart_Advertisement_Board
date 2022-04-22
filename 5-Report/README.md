@@ -3,7 +3,7 @@ An  Avertisement board is for attracting the people around us and also to make a
 ## INTRODUCTION
 With the help of this project we can advertise our products, as comparied to an conventional led board it will conusme less power and its fully automated inaddition to that it can easy be replaced when needed. we can advertise or make people aware of the sourounds or even Govternment can use it introduce new scheme and make mass educated form the same. 
 ## COMPONENTS AND SUPPLIES
-1.ATmega328p 
+1)ATmega328p 
 
 2.LED bulb and LED strip
 
