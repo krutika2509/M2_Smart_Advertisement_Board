@@ -20,6 +20,7 @@ With the help of this project we can advertise our products, as comparied to an 
 8.Banner with advertisement in rolled format
 ## ADVANTAGES
 1.A advertisement board help people and company to advertise there porducts and ideas to the masses.
+
 2.Govternment can also use this technology to introduce new schemes to the people. 
 ## 4W & H (WHO,WHAT,WHEN,WHERE,HOW)
 ### WHO
@@ -27,9 +28,9 @@ With the help of this project we can advertise our products, as comparied to an 
 ### WHAT
 * HIGH RELIABILITY
 ### WHEN
-* IT CAN BE USED ANY TIME MOSTLY
+*  IT CAN BE USED ANY TIME MOSTLY
 ### WHERE
-* ANYWARE WHERE PEOPLE CAN SEE
+*  ANYWARE WHERE PEOPLE CAN SEE
 ### HOW
 * EASY TO USE AND ADJUSTED IN A IN CROUDED AREAS
 ## SWOT(STRENGTH,WEAKNESS,OPPORTUNITY,THREATS)
