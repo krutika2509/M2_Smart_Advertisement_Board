@@ -1,6 +1,6 @@
 # OBJECTIVE OF THIS PROJECT
 An  Avertisement board is for attracting the people around us and also to make aware of our porduct. An advertising board, or A-board, is usually a term reserved for the advertising hoardings seen at association football matches, although there are other more general forms such as billboards and posters.
-## INTRODUCTION:
+## INTRODUCTION
 With the help of this project we can advertise our products, as comparied to an conventional led board it will conusme less power and its fully automated inaddition to that it can easy be replaced when needed. we can advertise or make people aware of the sourounds or even Govternment can use it introduce new scheme and make mass educated form the same. 
 ## COMPONENTS AND SUPPLIES
 1.ATmega328p 
@@ -14,7 +14,7 @@ With the help of this project we can advertise our products, as comparied to an 
 ## ADVANTAGES
 1. a advertisement board help people and company to advertise there porducts and ideas to the masses.
 2. Govternment can also use this technology to introduce new schemes to the people. 
-## 4W & H  (WHO,WHAT,WHEN,WHERE,HOW)
+## 4W & H (WHO,WHAT,WHEN,WHERE,HOW)
 ### * WHO
  * A ADVERTISEMENT BOARD IS USED TO ADVERTISE NEW PRODUCTS AND IDEAS AND ALSO ATTRACT PROPLE
 ### * WHAT
