@@ -14,11 +14,5 @@ As we know simulide dont have solar panel powered battries so for the sole purpo
 | 4_TestPlan | Process of the project |
 | 5_Report | Detaied Process and Goal |
 | 6_Output | Images and videos of output |
-## Project in working condition
+## Project photo
 ![backup2](https://user-images.githubusercontent.com/104137902/164784132-c4f4faa6-8efe-4c70-887a-ad50ae339048.png)
-
-
-
-
-
-
