@@ -24,7 +24,7 @@ With the help of this project we can advertise our products, as comparied to an 
 2.Govternment can also use this technology to introduce new schemes to the people. 
 ## 4W & H (WHO,WHAT,WHEN,WHERE,HOW)
 ### WHO
-  - A ADVERTISEMENT BOARD IS USED TO ADVERTISE NEW PRODUCTS AND IDEAS AND ALSO ATTRACT PROPLE
+*  A ADVERTISEMENT BOARD IS USED TO ADVERTISE NEW PRODUCTS AND IDEAS AND ALSO ATTRACT PROPLE
 ### WHAT
   - HIGH RELIABILITY
 ### WHEN
