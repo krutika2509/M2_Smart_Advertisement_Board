@@ -1,5 +1,5 @@
 # The Test plan of this project is
-* To know the importnace of the project.
+1. To know the importnace of the project.
 * To know the work in specific conditions.
 * Working Principle and architecture of the simulide.
 * To verify the microcontroller chip.
