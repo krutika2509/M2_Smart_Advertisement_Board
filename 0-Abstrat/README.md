@@ -5,16 +5,17 @@ Smart_Advertisement_Board can have as many advertisement as we like and dependin
 ## Assumption
 As we know simulide dont have solar panel powered battries so for the sole purpose of successfull simulation we have assumed that as a voltage source. We also know that ATmega 328 in simulide has predefined VCC and GND conection so we have not supplied any votage source in that. 
 ## Folder structure
-| Folder | 	Description |
+| Folder | Description |
 | -- | ------------ |
 | 0_Abstrat | Brief intoroduction of the project title |
-| 1_Requirements |	Detailed Requirements of our project |
-| 2_Designs |  All Designs |
-| 3_Implementation |	All code and Makefile |
-| 4_TestPlan |	Process of the project |
-| 5_Report |	Detaied Process and Goal |
-| 6_Output |	Images and videos of output |
-## Project in working condition![backup2](https://user-images.githubusercontent.com/104137902/164784132-c4f4faa6-8efe-4c70-887a-ad50ae339048.png)
+| 1_Requirements | Detailed Requirements of our project |
+| 2_Designs | All Designs |
+| 3_Implementation | All code and Makefile |
+| 4_TestPlan | Process of the project |
+| 5_Report | Detaied Process and Goal |
+| 6_Output | Images and videos of output |
+## Project in working condition
+![backup2](https://user-images.githubusercontent.com/104137902/164784132-c4f4faa6-8efe-4c70-887a-ad50ae339048.png)
 
 
 
