@@ -1,4 +1,4 @@
-# M2-Smart_Advertisement_Board
+# M2-Smart_Advertisement_Board:
 
 In this project, I have created a smart advertising board that will get electrictiy form the solar panel and will store it in the battery banks. At night battry packs will take paower from the battery pack and it will help to glow the main head led strip and also the atmega328. 
 
@@ -7,11 +7,13 @@ By doing this porject we can make use of solar power in terms of advertising as 
 Smart_Advertisement_Board can have as many advertisement as we like and depending on the size of the board used for the same. It can be easyly used by the govt and the private sectors to advertise theself without breaking the bank. 
 
 
-# Badges
+# Assumption: 
 
-It will be uploaded after the sucessfull run.
+As we know simulide dont have solar panel powered battries so for the sole purpose of successfull simulation we have assumed that as a voltage source
+We also know that ATmega 328 in simulide has predefined VCC and GND conection so we have not supplied any votage source in that. 
 
-# Folder structure
+
+# Folder structure:
 
 | Folder | 	Description |
 | -- | ------------ |
@@ -21,7 +23,12 @@ It will be uploaded after the sucessfull run.
 | 3_Implementation |	All code and Makefile |
 | 4_TestPlan |	Process of the project |
 | 5_Report |	Detaied Process and Goal |
-| 6_Images and Videos |	Images and videos of output |
+| 6_Output |	Images and videos of output |
+
+# Project in working conditon:
+
+
+![backup2](https://user-images.githubusercontent.com/104137902/164784132-c4f4faa6-8efe-4c70-887a-ad50ae339048.png)
 
 
 
