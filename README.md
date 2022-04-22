@@ -6,7 +6,7 @@ By doing this porject we can make use of solar power in terms of advertising as 
 Smart Advertisement Board can have as many advertisement as we like and depending on the size of the board used for the same. It can be easyly used by the govt and the private sectors to advertise theself without breaking the bank. 
 ## Badges
 It will be uploaded after the sucessfull run.
-# Folder structure
+### Folder structure
 | Folder | 	Description |
 | -- | ------------ |
 | 0_Abstrat | Brief intoroduction of the project title | 
