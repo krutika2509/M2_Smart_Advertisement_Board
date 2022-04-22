@@ -5,7 +5,9 @@ Smart_Advertisement_Board can have as many advertisement as we like and dependin
 ## Assumption
 As we know simulide dont have solar panel powered battries so for the sole purpose of successfull simulation we have assumed that as a voltage source. We also know that ATmega 328 in simulide has predefined VCC and GND conection so we have not supplied any votage source in that. 
 ## Folder structure
-| Folder | 	Description || -- | ------------ || 0-Abstrat | Brief intoroduction of the project title |
+| Folder | 	Description |
+| -- | ------------ |
+| 0-Abstrat | Brief intoroduction of the project title |
 | 1_Requirements |	Detailed Requirements of our project |
 | 2_Designs |  All Designs |
 | 3_Implementation |	All code and Makefile |
