@@ -4,8 +4,8 @@ By doing this porject we can make use of solar power in terms of advertising as 
 Smart_Advertisement_Board can have as many advertisement as we like and depending on the size of the board used for the same. It can be easyly used by the govt and the private sectors to advertise theself without breaking the bank. 
 
 ## Assumption:
-*As we know simulide dont have solar panel powered battries so for the sole purpose of successfull simulation we have assumed that as a voltage source
-*We also know that ATmega 328 in simulide has predefined VCC and GND conection so we have not supplied any votage source in that. 
+* As we know simulide dont have solar panel powered battries so for the sole purpose of successfull simulation we have assumed that as a voltage source
+* We also know that ATmega 328 in simulide has predefined VCC and GND conection so we have not supplied any votage source in that. 
 
 ## Folder structure:
 | Folder | 	Description |
