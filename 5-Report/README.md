@@ -45,4 +45,5 @@ With the help of this project we can advertise our products, as comparied to an 
 ### THREATS
 * CAN BE EASYLY BROKEN
 * * CAN BE STOLEN IF NOT DONE CORRETLY
+## PROJECT IMAGE
 ![backup2](https://user-images.githubusercontent.com/104137902/164801465-8aa81e47-8772-4762-b0e8-a6a11599f58c.png)
