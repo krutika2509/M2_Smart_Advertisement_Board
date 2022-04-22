@@ -1,0 +1,219 @@
+<circuit type="simulide_1.0" rev="1007" stepSize="1000000" stepsPS="1000000" NLsteps="100000" animate="1" >
+
+<item itemtype="AudioOut" CircId="AudioOut-4" mainComp="false" Show_id="false" Show_Val="false" Pos="104,500" rotation="0" hflip="1" vflip="1" label="AudioOut-4" idLabPos="-20,-36" labelrot="0" valLabPos="-16,20" valLabRot="0" Buzzer="false" Impedance="inf Ω" />
+
+<item itemtype="Ground" CircId="Ground-6" mainComp="false" Show_id="false" Show_Val="false" Pos="124,788" rotation="0" hflip="1" vflip="1" label="Ground-6" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="MCU" CircId="mega328-20" mainComp="false" Show_id="true" Show_Val="false" Pos="220,300" rotation="0" hflip="1" vflip="1" label="mega328-20" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Frequency="16 MHz" Program="../Smart_Advertisement_Board/Smart_Advertisement_Board/Debug/Smart_Advertisement_Board.hex" Auto_Load="false" Rst_enabled="false" Ext_Osc="false" Wdt_enabled="false" />
+
+<item itemtype="Rectangle" CircId="Rectangle-28" mainComp="false" Show_id="false" Show_Val="false" Pos="788,428" rotation="0" hflip="1" vflip="1" label="Rectangle-28" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" H_size="530 Pixels" V_size="300 Pixels" Border="2 _Pixels" Z_Value="-1" Color="#a0a0a4" Opacity="1" />
+
+<item itemtype="Led" CircId="Led-31" mainComp="false" Show_id="false" Show_Val="false" Pos="636,264" rotation="0" hflip="1" vflip="1" label="Led-31" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Oreange" Grounded="true" Threshold="1.2 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
+
+<item itemtype="Led" CircId="Led-32" mainComp="false" Show_id="false" Show_Val="false" Pos="976,264" rotation="0" hflip="1" vflip="1" label="Led-31" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Green" Grounded="true" Threshold="2.4 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
+
+<item itemtype="Led" CircId="Led-33" mainComp="false" Show_id="false" Show_Val="false" Pos="1092,504" rotation="0" hflip="1" vflip="1" label="Led-31" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Yellow" Grounded="true" Threshold="2.4 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
+
+<item itemtype="Led" CircId="Led-34" mainComp="false" Show_id="false" Show_Val="false" Pos="1092,324" rotation="0" hflip="1" vflip="1" label="Led-31" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Blue" Grounded="true" Threshold="2.4 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
+
+<item itemtype="Led" CircId="Led-38" mainComp="false" Show_id="false" Show_Val="false" Pos="692,600" rotation="0" hflip="1" vflip="1" label="Led-31" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Yellow" Grounded="true" Threshold="2.4 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
+
+<item itemtype="Led" CircId="Led-39" mainComp="false" Show_id="false" Show_Val="false" Pos="908,600" rotation="90" hflip="1" vflip="1" label="Led-31" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Purple" Grounded="true" Threshold="2.4 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
+
+<item itemtype="Led" CircId="Led-40" mainComp="false" Show_id="false" Show_Val="false" Pos="504,340" rotation="0" hflip="1" vflip="1" label="Led-31" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Purple" Grounded="true" Threshold="2.4 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
+
+<item itemtype="Probe" CircId="Probe-52" mainComp="false" Show_id="false" Show_Val="true" Pos="100,460" rotation="-45" hflip="1" vflip="1" label="Probe-52" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Voltage Source" CircId="Voltage Source-104" mainComp="false" ShowProp="MaxValue" Show_id="false" Show_Val="true" Pos="-200,440" rotation="0" hflip="1" vflip="1" label="Voltage Source-104" idLabPos="-32,-48" labelrot="0" valLabPos="-8,30" valLabRot="0" Value_Volt="10 V" MaxValue="10 V" />
+
+<item itemtype="LedBar" CircId="LedBar-106" mainComp="false" Show_id="false" Show_Val="false" Pos="848,264" rotation="90" hflip="1" vflip="1" label="LedBar-106" idLabPos="-16,-44" labelrot="0" valLabPos="-16,-56" valLabRot="0" Size="15 Leds" Color="Oreange" Grounded="true" Threshold="2.4 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
+
+<item itemtype="LedRgb" CircId="LedRgb-213" mainComp="false" Show_id="false" Show_Val="false" Pos="24,696" rotation="0" hflip="1" vflip="1" label="LedRgb-213" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" CommonCathode="true" Threshold_R="1 V" MaxCurrent_R="0.03 A" Resistance_R="0.6 Ω" Threshold_G="2.2 V" MaxCurrent_G="0.03 A" Resistance_G="0.6 Ω" Threshold_B="3.5 V" MaxCurrent_B="0.03 A" Resistance_B="0.6 Ω" />
+
+<item itemtype="DcMotor" CircId="DcMotor-240" mainComp="false" Show_id="true" Show_Val="false" Pos="1104,400" rotation="0" hflip="1" vflip="1" label="DcMotor-240" idLabPos="-22,-48" labelrot="0" valLabPos="-14,36" valLabRot="0" RPM_Nominal="10 RPM" Volt_Nominal="2 V" Resistance="100 Ω" />
+
+<item itemtype="DcMotor" CircId="DcMotor-260" mainComp="false" Show_id="true" Show_Val="false" Pos="440,392" rotation="0" hflip="1" vflip="1" label="DcMotor-240" idLabPos="-22,-48" labelrot="0" valLabPos="-14,36" valLabRot="0" RPM_Nominal="10 RPM" Volt_Nominal="2 V" Resistance="100 Ω" />
+
+<item itemtype="Led" CircId="Led-323" mainComp="false" Show_id="false" Show_Val="false" Pos="500,480" rotation="0" hflip="1" vflip="1" label="Led-323" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Yellow" Grounded="true" Threshold="1.2 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
+
+<item itemtype="Image" CircId="Image-391" mainComp="false" Show_id="false" Show_Val="false" Pos="788,428" rotation="0" hflip="1" vflip="1" label="Image-391" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" H_size="500 Pixels" V_size="280 Pixels" Border="2 _Pixels" Z_Value="4" Color="#a0a0a4" Opacity="1" Image_File="../images.jfif" />
+
+<item itemtype="TextComponent" CircId="TextComponent-392" mainComp="false" Show_id="false" Show_Val="false" Pos="-316,492" rotation="0" hflip="1" vflip="1" label="TextComponent-392" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="true" Text="SOLAR POWERED&#xa;RECHARABLE BATTERIES" />
+
+<item itemtype="TextComponent" CircId="TextComponent-397" mainComp="false" Show_id="false" Show_Val="false" Pos="-12,732" rotation="0" hflip="1" vflip="1" label="TextComponent-397" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="true" Text="LED INDICATOR&#xa;FOR MOTOR AND&#xa;AUDIO ON" />
+
+<item itemtype="TextComponent" CircId="TextComponent-399" mainComp="false" Show_id="false" Show_Val="false" Pos="1172,388" rotation="0" hflip="1" vflip="1" label="TextComponent-399" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="true" Text="DC MORTOR FOR TURNING&#xa;TO NEXT ADVERTISEMENT " />
+
+<item itemtype="TextComponent" CircId="TextComponent-401" mainComp="false" Show_id="false" Show_Val="false" Pos="656,184" rotation="0" hflip="1" vflip="1" label="TextComponent-401" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="true" Text="DOUBLE ROLLED ADVERTISEMENT BOARD" />
+
+<item itemtype="TextComponent" CircId="TextComponent-402" mainComp="false" Show_id="false" Show_Val="false" Pos="192,464" rotation="0" hflip="1" vflip="1" label="TextComponent-402" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="true" Text="AUDIO OUT&#xa;(SPEAKER FOR &#xa;ADVERTISEMENT)" />
+
+<item itemtype="TextComponent" CircId="TextComponent-403" mainComp="false" Show_id="false" Show_Val="false" Pos="108,280" rotation="0" hflip="1" vflip="1" label="TextComponent-403" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="true" Text="SOLAR POWERED &#xa;BATTERIES" />
+
+<item itemtype="TextComponent" CircId="TextComponent-458" mainComp="false" Show_id="false" Show_Val="false" Pos="928,604" rotation="0" hflip="1" vflip="1" label="TextComponent-458" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="true" Text="BLINKING LED'S&#xa;FOR ATTRACTING PEOPLE" />
+
+<item itemtype="Probe" CircId="Probe-521" mainComp="false" Show_id="false" Show_Val="true" Pos="36,232" rotation="-45" hflip="1" vflip="1" label="Probe-521" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Probe" CircId="Probe-522" mainComp="false" Show_id="false" Show_Val="true" Pos="492,208" rotation="-45" hflip="1" vflip="1" label="Probe-522" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Probe" CircId="Probe-524" mainComp="false" Show_id="false" Show_Val="true" Pos="364,424" rotation="-45" hflip="1" vflip="1" label="Probe-524" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Probe" CircId="Probe-525" mainComp="false" Show_id="false" Show_Val="true" Pos="352,732" rotation="-45" hflip="1" vflip="1" label="Probe-525" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Probe" CircId="Probe-528" mainComp="false" Show_id="false" Show_Val="true" Pos="-92,388" rotation="-45" hflip="1" vflip="1" label="Probe-528" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Probe" CircId="Probe-529" mainComp="false" Show_id="false" Show_Val="true" Pos="1088,560" rotation="-45" hflip="1" vflip="1" label="Probe-529" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Node" CircId="Node-129" mainComp="false" Pos="-56,512" />
+
+<item itemtype="Node" CircId="Node-131" mainComp="false" Pos="-56,520" />
+
+<item itemtype="Node" CircId="Node-135" mainComp="false" Pos="-56,528" />
+
+<item itemtype="Node" CircId="Node-138" mainComp="false" Pos="-56,536" />
+
+<item itemtype="Node" CircId="Node-141" mainComp="false" Pos="-56,544" />
+
+<item itemtype="Node" CircId="Node-144" mainComp="false" Pos="-56,552" />
+
+<item itemtype="Node" CircId="Node-147" mainComp="false" Pos="-56,560" />
+
+<item itemtype="Node" CircId="Node-150" mainComp="false" Pos="-56,568" />
+
+<item itemtype="Node" CircId="Node-153" mainComp="false" Pos="-56,576" />
+
+<item itemtype="Node" CircId="Node-156" mainComp="false" Pos="-56,588" />
+
+<item itemtype="Node" CircId="Node-159" mainComp="false" Pos="-56,600" />
+
+<item itemtype="Node" CircId="Node-162" mainComp="false" Pos="-56,592" />
+
+<item itemtype="Node" CircId="Node-165" mainComp="false" Pos="-56,608" />
+
+<item itemtype="Node" CircId="Node-168" mainComp="false" Pos="-56,616" />
+
+<item itemtype="Node" CircId="Node-218" mainComp="false" Pos="132,392" />
+
+<item itemtype="Node" CircId="Node-224" mainComp="false" Pos="88,576" />
+
+<item itemtype="Node" CircId="Node-229" mainComp="false" Pos="-16,400" />
+
+<item itemtype="Node" CircId="Node-255" mainComp="false" Pos="100,612" />
+
+<item itemtype="Node" CircId="Node-258" mainComp="false" Pos="88,468" />
+
+<item itemtype="Node" CircId="Node-262" mainComp="false" Pos="512,436" />
+
+<item itemtype="Node" CircId="Node-265" mainComp="false" Pos="592,748" />
+
+<item itemtype="Node" CircId="Node-336" mainComp="false" Pos="348,412" />
+
+<item itemtype="Connector" uid="connector-466" startpinid="mega328-20-PORTB1" endpinid="Node-336-0" pointList="260,412,348,412" />
+
+<item itemtype="Connector" uid="connector-467" startpinid="mega328-20-PORTB2" endpinid="Led-32-lPin" pointList="260,404,356,404,356,236,960,236,960,264" />
+
+<item itemtype="Connector" uid="connector-468" startpinid="mega328-20-PORTB3" endpinid="Led-34-lPin" pointList="260,396,340,396,340,224,1076,224,1076,324" />
+
+<item itemtype="Connector" uid="connector-469" startpinid="mega328-20-PORTB4" endpinid="Led-39-lPin" pointList="260,388,324,388,324,584,908,584" />
+
+<item itemtype="Connector" uid="connector-470" startpinid="mega328-20-PORTB5" endpinid="Led-38-lPin" pointList="260,380,336,380,336,600,676,600" />
+
+<item itemtype="Connector" uid="connector-471" startpinid="LedBar-106-led0-pinP" endpinid="Node-129-0" pointList="872,248,-56,248,-56,512" />
+
+<item itemtype="Connector" uid="connector-472" startpinid="LedBar-106-led1-pinP" endpinid="Node-131-0" pointList="864,248,864,520,-56,520" />
+
+<item itemtype="Connector" uid="connector-473" startpinid="Node-131-2" endpinid="Node-129-1" pointList="-56,520,-56,512" />
+
+<item itemtype="Connector" uid="connector-474" startpinid="Node-131-1" endpinid="Node-135-0" pointList="-56,520,-56,528" />
+
+<item itemtype="Connector" uid="connector-475" startpinid="LedBar-106-led2-pinP" endpinid="Node-135-1" pointList="856,248,856,528,-56,528" />
+
+<item itemtype="Connector" uid="connector-476" startpinid="Node-135-2" endpinid="Node-138-0" pointList="-56,528,-56,536" />
+
+<item itemtype="Connector" uid="connector-477" startpinid="LedBar-106-led3-pinP" endpinid="Node-138-1" pointList="848,248,848,536,-56,536" />
+
+<item itemtype="Connector" uid="connector-478" startpinid="Node-138-2" endpinid="Node-141-0" pointList="-56,536,-56,544" />
+
+<item itemtype="Connector" uid="connector-479" startpinid="LedBar-106-led4-pinP" endpinid="Node-141-1" pointList="840,248,840,544,-56,544" />
+
+<item itemtype="Connector" uid="connector-480" startpinid="Node-141-2" endpinid="Node-144-0" pointList="-56,544,-56,552" />
+
+<item itemtype="Connector" uid="connector-482" startpinid="Node-144-2" endpinid="Node-147-0" pointList="-56,552,-56,560" />
+
+<item itemtype="Connector" uid="connector-483" startpinid="LedBar-106-led6-pinP" endpinid="Node-147-1" pointList="824,248,824,560,-56,560" />
+
+<item itemtype="Connector" uid="connector-484" startpinid="Node-147-2" endpinid="Node-150-0" pointList="-56,560,-56,568" />
+
+<item itemtype="Connector" uid="connector-485" startpinid="LedBar-106-led7-pinP" endpinid="Node-150-1" pointList="816,248,816,568,-56,568" />
+
+<item itemtype="Connector" uid="connector-486" startpinid="Node-150-2" endpinid="Node-153-0" pointList="-56,568,-56,576" />
+
+<item itemtype="Connector" uid="connector-487" startpinid="Node-153-2" endpinid="Node-156-0" pointList="-56,576,-56,588" />
+
+<item itemtype="Connector" uid="connector-488" startpinid="LedBar-106-led9-pinP" endpinid="Node-156-1" pointList="800,248,800,588,-56,588" />
+
+<item itemtype="Connector" uid="connector-489" startpinid="Node-156-2" endpinid="Node-159-0" pointList="-56,588,-56,600" />
+
+<item itemtype="Connector" uid="connector-490" startpinid="LedBar-106-led10-pinP" endpinid="Node-162-0" pointList="792,248,792,616,-56,616,-56,592" />
+
+<item itemtype="Connector" uid="connector-491" startpinid="Node-159-2" endpinid="Node-165-0" pointList="-56,600,-56,608" />
+
+<item itemtype="Connector" uid="connector-492" startpinid="LedBar-106-led11-pinP" endpinid="Node-162-1" pointList="784,248,784,624,-56,624,-56,592" />
+
+<item itemtype="Connector" uid="connector-493" startpinid="Node-162-2" endpinid="Node-159-1" pointList="-56,592,-56,600" />
+
+<item itemtype="Connector" uid="connector-494" startpinid="LedBar-106-led12-pinP" endpinid="Node-165-1" pointList="776,248,776,640,-56,640,-56,608" />
+
+<item itemtype="Connector" uid="connector-495" startpinid="Node-165-2" endpinid="Node-168-0" pointList="-56,608,-56,616" />
+
+<item itemtype="Connector" uid="connector-496" startpinid="LedBar-106-led13-pinP" endpinid="Node-168-1" pointList="768,248,768,632,-56,632,-56,616" />
+
+<item itemtype="Connector" uid="connector-497" startpinid="LedRgb-213-Pin1" endpinid="Node-218-1" pointList="8,696,8,392,132,392" />
+
+<item itemtype="Connector" uid="connector-498" startpinid="LedRgb-213-Pin3" endpinid="Node-224-1" pointList="40,696,40,576,88,576" />
+
+<item itemtype="Connector" uid="connector-499" startpinid="AudioOut-4-rPin" endpinid="Node-224-0" pointList="88,500,88,576" />
+
+<item itemtype="Connector" uid="connector-500" startpinid="Node-229-1" endpinid="mega328-20-PORTD1" pointList="-16,400,-16,324,212,324" />
+
+<item itemtype="Connector" uid="connector-501" startpinid="LedBar-106-led8-pinP" endpinid="Node-153-1" pointList="808,248,808,576,-56,576" />
+
+<item itemtype="Connector" uid="connector-502" startpinid="Node-218-2" endpinid="Node-258-0" pointList="132,392,88,392,88,468" />
+
+<item itemtype="Connector" uid="connector-503" startpinid="Node-129-2" endpinid="Node-229-0" pointList="-56,512,-136,512,-136,400,-16,400" />
+
+<item itemtype="Connector" uid="connector-504" startpinid="Node-224-2" endpinid="Node-255-0" pointList="88,576,88,612,100,612" />
+
+<item itemtype="Connector" uid="connector-505" startpinid="Node-255-2" endpinid="Ground-6-Gnd" pointList="100,612,124,612,124,772" />
+
+<item itemtype="Connector" uid="connector-506" startpinid="Node-229-2" endpinid="Voltage Source-104-outPin" pointList="-16,400,-8,400,-8,456,-172,456" />
+
+<item itemtype="Connector" uid="connector-507" startpinid="DcMotor-240-lPin" endpinid="Node-262-0" pointList="1064,400,512,400,512,436" />
+
+<item itemtype="Connector" uid="connector-508" startpinid="Node-258-2" endpinid="AudioOut-4-lPin" pointList="88,468,88,492" />
+
+<item itemtype="Connector" uid="connector-509" startpinid="DcMotor-260-lPin" endpinid="Node-262-1" pointList="400,392,400,436,512,436" />
+
+<item itemtype="Connector" uid="connector-510" startpinid="DcMotor-260-rPin" endpinid="Node-265-1" pointList="480,392,480,748,592,748" />
+
+<item itemtype="Connector" uid="connector-511" startpinid="Node-265-2" endpinid="Node-255-1" pointList="592,748,100,748,100,612" />
+
+<item itemtype="Connector" uid="connector-512" startpinid="Node-218-0" endpinid="mega328-20-PORTB7" pointList="132,392,168,392,168,380,212,380" />
+
+<item itemtype="Connector" uid="connector-513" startpinid="Node-168-2" endpinid="LedBar-106-led14-pinP" pointList="-56,616,-56,248,760,248" />
+
+<item itemtype="Connector" uid="connector-514" startpinid="mega328-20-PORTB0" endpinid="Led-40-lPin" pointList="212,412,184,412,184,452,488,452,488,340" />
+
+<item itemtype="Connector" uid="connector-515" startpinid="Node-262-2" endpinid="Node-258-1" pointList="512,436,88,436,88,468" />
+
+<item itemtype="Connector" uid="connector-516" startpinid="Node-336-2" endpinid="Led-31-lPin" pointList="348,412,368,412,368,264,620,264" />
+
+<item itemtype="Connector" uid="connector-517" startpinid="DcMotor-240-rPin" endpinid="Node-265-0" pointList="1144,400,1144,748,592,748" />
+
+<item itemtype="Connector" uid="connector-518" startpinid="Node-336-1" endpinid="Led-323-lPin" pointList="348,412,348,480,484,480" />
+
+<item itemtype="Connector" uid="connector-519" startpinid="Led-33-lPin" endpinid="mega328-20-PORTB6" pointList="1076,504,1076,648,152,648,152,372,212,372" />
+
+<item itemtype="Connector" uid="connector-481" startpinid="LedBar-106-led5-pinP" endpinid="Node-144-1" pointList="832,248,832,552,-56,552" />
+
+</circuit>
