@@ -1,10 +1,10 @@
-# The Test plan of this project is:
+# The Test plan of this project is
 * To know the importnace of the project.
 * To know the work in specific conditions.
 * Working Principle and architecture of the simulide.
 * To verify the microcontroller chip.
-# Test Cases:
-# Folder structure
+## Test Cases
+### Folder structure
 | SL. NO. | Description | Test cases |
 | -- | ------------ | -------------- |
 | 1 |	DC motor | passed |
