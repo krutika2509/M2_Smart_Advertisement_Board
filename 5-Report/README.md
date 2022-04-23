@@ -1,8 +1,8 @@
-# OBJECTIVE OF THIS PROJECT:
+# OBJECTIVE OF THIS PROJECT
 An  Avertisement board is for attracting the people around us and also to make aware of our porduct. Advertising board. An advertising board, or A-board, is usually a term reserved for the advertising hoardings seen at association football matches, although there are other more general forms such as billboards and posters.
-## INTRODUCTION:
+## INTRODUCTION
 With the help of this project we can advertise our products, as comparied to an conventional led board it will conusme less power and its fully automated inaddition to that it can easy be replaced when needed. we can advertise or make people aware of the sourounds or even Govternment can use it introduce new scheme and make mass educated form the same. 
-# COMPONENTS AND SUPPLIES:
+## COMPONENTS AND SUPPLIES
 
 1.ATmega328p 
 
@@ -20,35 +20,35 @@ With the help of this project we can advertise our products, as comparied to an 
 
 8.Banner with advertisement in rolled format.
 
-## ADVANTAGES:
+## ADVANTAGES
 1. a advertisement board help people and company to advertise there porducts and ideas to the masses.
 
 2. Govternment can also use this technology to introduce new schemes to the people. 
 
 ## 4W & H  (WHO,WHAT,WHEN,WHERE,HOW)
 
-### WHO:
+### WHO
 A ADVERTISEMENT BOARD IS USED TO ADVERTISE NEW PRODUCTS AND IDEAS AND ALSO ATTRACT PROPLE. 
-### WHAT:
+### WHAT
 HIGH RELIABILITY. 
-### WHEN:
+### WHEN
 IT CAN BE USED ANY TIME MOSTLY.
-### WHERE:
+### WHERE
 ANYWARE WHERE PEOPLE CAN SEE.
-### HOW:
+### HOW
 EASY TO USE AND ADJUSTED IN A IN CROUDED AREAS.
 
 ## SWOT(STRENGTH,WEAKNESS,OPPORTUNITY,THREATS)
 
-### STRENGTH:
+### STRENGTH
 1.IT IS LESS IN PRICE.
 
 2.HELPS IN EDUCATING PEOPLE
 
 3.WE CAN CHOOSE ADVERTISEMENT OR LED TO ACTIVATE.
-### WEAKNESS:
+### WEAKNESS
 CAN BE LESS POWEFULL IN CLOUDY WEATHER 
-### OPPORTUNITY:
+### OPPORTUNITY
 INTERNET OF THINGS(IOT)
-### THREATS:
+### THREATS
 CAN BE EASYLY BROKEN
