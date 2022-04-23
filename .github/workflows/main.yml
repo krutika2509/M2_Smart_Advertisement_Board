@@ -33,7 +33,5 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          echo test, and deploy your project.
-- name: cppcheck-action
-  uses: deep5050/cppcheck-action@v3.0
+
 
