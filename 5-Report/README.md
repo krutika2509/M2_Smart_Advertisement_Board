@@ -54,11 +54,17 @@ INTERNET OF THINGS(IOT)
 CAN BE EASYLY BROKEN
 ## Components and Software required
 1.[Atmega28p](https://www.arrow.com/en/products/atmega328p-pn/microchip-technology) - A single-chip microcontroller created by Atmel in the megaAVR family
+
 2.[SimulIDE](https://www.simulide.com/p/home.html) -  A simple real time electronic circuit simulator
+
 3.[VS Code](https://code.visualstudio.com/) - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications
+
 4.[LED]() - A light-emitting diode (LED) is a semiconductor light source that emits light when current flows through it
+
 5.[Atmel Studio](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) - The Atmel Studio 7 IDP gives you a seamless and easy-to-use environment to write, build, and debug your applications written in C/C++ or assembly code. It also connects seamlessly to the debuggers, programmers, and development kits that support AVR.
+
 6.[DC Motor]() - A DC motor is any of a class of rotary electrical motors that converts direct current electrical energy into mechanical energy. 
+
 ## Applications
 1.Billboard advertisements are designed to catch a person's attention and create a memorable impression very quickly, leaving the reader thinking about the advertisement after they have driven past it. They have to be readable in a very short time because they are usually read while being passed at high speeds. 
 
@@ -72,9 +78,7 @@ CAN BE EASYLY BROKEN
 ## In Action
 |ON|OFF|
 |:--:|:--:|
-|(![ON CONDITON](https://user-images.githubusercontent.com/104137902/164891779-357e38c7-2c67-477b-b736-82aff7eda6ec.png)|![OFF CONDITION](https://user-images.githubusercontent.com/104137902/164891792-05dfbca9-604f-4fc0-a01f-f2ea7df4aae8.png)|
+|![ON CONDITON](https://user-images.githubusercontent.com/104137902/164891779-357e38c7-2c67-477b-b736-82aff7eda6ec.png)|![OFF CONDITION](https://user-images.githubusercontent.com/104137902/164891792-05dfbca9-604f-4fc0-a01f-f2ea7df4aae8.png)|
 ## Working and Simulation
-(![23-04-22_16-41_11](https://user-images.githubusercontent.com/104137902/164892099-51c62c34-3dd2-44d5-942f-d0504706655f.gif)
+![23-04-22_16-41_11](https://user-images.githubusercontent.com/104137902/164892099-51c62c34-3dd2-44d5-942f-d0504706655f.gif)
 ## THANK YOU
-
-
