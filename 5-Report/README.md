@@ -1,52 +1,53 @@
-# OBJECTIVE OF THIS PROJECT
-An  Avertisement board is for attracting the people around us and also to make aware of our porduct. An advertising board, or A-board, is usually a term reserved for the advertising hoardings seen at association football matches, although there are other more general forms such as billboards and posters.
-## INTRODUCTION
-With the help of this project we can advertise our products, as comparied to an conventional led board it will conusme less power and its fully automated inaddition to that it can easy be replaced when needed. we can advertise or make people aware of the sourounds or even Govternment can use it introduce new scheme and make mass educated form the same. 
-## COMPONENTS AND SUPPLIES
-1.ATmega328p 
+# Server Room Temperature Monitering System
+## Introduction
 
-2.LED bulb and LED strip
+Several consumer devices now involve temperature monitoring. For example, most of the air conditioners on the market feature climate control, where the AC continuously monitors the ambient temperature of a room and accordingly regulates the air conditioning. Even some digital clocks now have temperature monitors embedded in them. Many other consumer appliances also offer temperature monitoring. 
 
-3.Connecting Wires
+In this project, we’ve built a temperature sensor using Atmega328p and the variable resistor as  temperature sensor.The purpose of the sensor built here is to monitor the ambient temperature of a room over a cycle of 24 hours and display the current temperature, the maximum temperature recorded, and the minimum temperature recorded within that 24-hour cycle on a serial monnitor. 
 
-4.Audio out
+## Features
+- Monitor temperature of a closed room for safety measurements like it can be used in server rooms, refrigerator, microwave, closed factories etc, 
+- The system will indicate via LED wheather the doors or windows closed or not
+- The system will not turn ON until it becomes closed area
+- It is basically used for server rooms as it needs to maintain precise temperature in the room
+- An alert system can be trigerred according to user temperature.
 
-5.10 V voltage source
+## Components and Software required
+- [Atmega28p](https://www.arrow.com/en/products/atmega328p-pn/microchip-technology) - A single-chip microcontroller created by Atmel in the megaAVR family
+- [SimulIDE](https://www.simulide.com/p/home.html) -  A simple real time electronic circuit simulator
+- [VS Code](https://code.visualstudio.com/) - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications
+- [LED]() - A light-emitting diode (LED) is a semiconductor light source that emits light when current flows through it
+- [Button]() - A push-button (also spelled pushbutton) or simply button is a simple switch mechanism to control some aspect of a machine or a process
+- [Resistor]() - A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element
+- [Oscilloscope]() - electronic test instrument that graphically displays varying electrical voltages as a two-dimensional plot of one or more signals as a function of time.
 
-6.DC motor
+## How the project works
+1.  The LM35 sensor used in this circuit can sense a temperature ranging from -55˚ to 150˚C. Since it is not present SimulIDE, we use potentiometer it acts as an temperature sensor which is manually operated. 
+2.  The source code this project is available [here](https://github.com/Lokesh12121/M1_Inventary_Managment_System/tree/main/3_Implementation) , after running the code it generates a .hex and .elf file.
+3.  Build the circuit according to the following diagram
+![Circuit diagram](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/0_Abstract/Circuit1.PNG)
+4.  In simulIDE click on mcu and click on load the firmware, and select .hex file
+5.  As u know the circuit only works when it is in closed space, so press all the buttons ON.
+6.  And finally the circuit works, vary the potentiometer to vary the temperature
+7.  The results is visualised in serial monitor via UART communication.
 
-7.Advertisement board
+## Applications
+1. Server Rooms - the server rooms are closed for safety and security purpose, as it is closed it keeps warm temperature. The temperature is monitered and is controlled via coolers, fans etc, 
+2. Microwave - A kitchen device used for cooking, it is implemented over there to maintain temperature.
+3. Laboratoy - It is very important ti maintain a closed laboratory because of harmful chemicals and to maintain precise temperature
 
-8.Banner with advertisement in rolled format
-## ADVANTAGES
-1.A advertisement board help people and company to advertise there porducts and ideas to the masses.
+### 3. Implementation Block Diagram 
+![Design Flow](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/1_Requirements/block_diagram.PNG)
 
-2.Govternment can also use this technology to introduce new schemes to the people. 
-## 4W & H (WHO,WHAT,WHEN,WHERE,HOW)
-### WHO
-A ADVERTISEMENT BOARD IS USED TO ADVERTISE NEW PRODUCTS AND IDEAS AND ALSO ATTRACT PROPLE
-### WHAT
-HIGH RELIABILITY
-### WHEN
-IT CAN BE USED ANY TIME MOSTLY
-### WHERE
-ANYWARE WHERE PEOPLE CAN SEE
-### HOW
-EASY TO USE AND ADJUSTED IN A IN CROUDED AREAS
-## SWOT (STRENGTH,WEAKNESS,OPPORTUNITY,THREATS)
-### STRENGTH
-1.IT IS LESS IN PRICE
+## In Action
+|ON|OFF|
+|:--:|:--:|
+|![ON](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/3_Implementation/simulation/circuit-main.gif)|![OFF](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/3_Implementation/simulation/OFF_circuit.gif)|
 
-2.HELPS IN EDUCATING PEOPLE
+##  Working and Simulation
+[Click here](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/6_Output/Simulation_working.mp4)
 
-3.WE CAN CHOOSE ADVERTISEMENT OR LED TO ACTIVATE
-### WEAKNESS
-WE NEED TO MANUALLY CHANGE THE POSTERS, BANNERS FOR NEW ADVERTISEMENT
-### OPPORTUNITY
-INTERNET OF THINGS(IOT)
-### THREATS
-1.CAN BE EASYLY BROKEN
+##  THANK YOU
 
-2.CAN BE STOLEN IF NOT DONE CORRETLY
-## PROJECT IMAGE
-![backup2](https://user-images.githubusercontent.com/104137902/164801465-8aa81e47-8772-4762-b0e8-a6a11599f58c.png)
+
+
