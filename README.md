@@ -13,8 +13,6 @@ Smart Advertisement Board can have as many advertisement as we like and dependin
 
 ![This is an image](https://img.shields.io/github/issues/krutika2509/M2_Smart_Advertisement_Board)
 
-![This is an image](https://raw.githubusercontent.com) .
-
 ## Folder structure
 | Folder | 	Description |
 | -- | ------------ |
