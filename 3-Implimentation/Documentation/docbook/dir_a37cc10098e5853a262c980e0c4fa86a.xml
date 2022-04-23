@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_dir_a37cc10098e5853a262c980e0c4fa86a" xml:lang="en-US">
+<title>C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/3-Implimentation Directory Reference</title>
+<indexterm><primary>C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/3-Implimentation Directory Reference</primary></indexterm>
+<simplesect>
+    <title>Directories    </title>
+        <itemizedlist>
+            <listitem><para>directory <link linkend="_dir_458a349883ab77af7718f303f64e4b5f">Build</link></para>
+</listitem>
+            <listitem><para>directory <link linkend="_dir_38f6e979220ba43f077aec113c2a8cf0">documentation</link></para>
+</listitem>
+            <listitem><para>directory <link linkend="_dir_3de08bb8602c8f3e7f000d6565ba20d0">inc</link></para>
+</listitem>
+            <listitem><para>directory <link linkend="_dir_d4dfed54e81a222ebb4c4aaad4a44c6d">MAKE FILES</link></para>
+</listitem>
+            <listitem><para>directory <link linkend="_dir_db152ae52a3876c54deba6cf666e912b">src</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Files    </title>
+        <itemizedlist>
+            <listitem><para>file <link linkend="_main_8c">main.c</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>

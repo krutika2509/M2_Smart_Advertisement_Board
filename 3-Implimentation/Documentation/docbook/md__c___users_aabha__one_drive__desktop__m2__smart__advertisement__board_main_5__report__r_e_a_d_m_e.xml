@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e" xml:lang="en-US">
+
+<para>An Avertisement board is for attracting the people around us and also to make aware of our porduct. Advertising board. An advertising board, or A-board, is usually a term reserved for the advertising hoardings seen at association football matches, although there are other more general forms such as billboards and posters. </para>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md11">
+<title>INTRODUCTION</title>
+
+<para>With the help of this project we can advertise our products, as comparied to an conventional led board it will conusme less power and its fully automated inaddition to that it can easy be replaced when needed. we can advertise or make people aware of the sourounds or even Govternment can use it introduce new scheme and make mass educated form the same. The advertising design is the artwork that is visual and created for advertisements specifically. Graphic design has become synonymous with the world of advertising, and visual representations of products and services are essential for any brand to get its message across to the public. Advertising has three primary objectives: to inform, to persuade, and to remind. Informative Advertising creates awareness of brands, products, services, and ideas. </para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md12">
+<title>COMPONENTS AND SUPPLIES</title>
+
+<para>1.ATmega328p</para>
+
+<para>2.LED bulb and LED strip</para>
+
+<para>3.Connecting Wires</para>
+
+<para>4.Audio out</para>
+
+<para>5.10 V voltage source</para>
+
+<para>6.DC motor</para>
+
+<para>7.Advertisement board</para>
+
+<para>8.Banner with advertisement in rolled format.</para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md13">
+<title>ADVANTAGES</title>
+
+<para>1.A advertisement board help people and company to advertise there porducts and ideas to the masses.</para>
+
+<para>2.Govternment can also use this technology to introduce new schemes to the people.</para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md14">
+<title>4W &amp; H  (WHO,WHAT,WHEN,WHERE,HOW)</title>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md15">
+<title>WHO</title>
+
+<para>A ADVERTISEMENT BOARD IS USED TO ADVERTISE NEW PRODUCTS AND IDEAS AND ALSO ATTRACT PROPLE. </para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md16">
+<title>WHAT</title>
+
+<para>HIGH RELIABILITY. </para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md17">
+<title>WHEN</title>
+
+<para>IT CAN BE USED ANY TIME MOSTLY. </para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md18">
+<title>WHERE</title>
+
+<para>ANYWARE WHERE PEOPLE CAN SEE. </para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md19">
+<title>HOW</title>
+
+<para>EASY TO USE AND ADJUSTED IN A IN CROUDED AREAS.</para>
+</section>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md20">
+<title>SWOT(STRENGTH,WEAKNESS,OPPORTUNITY,THREATS)</title>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md21">
+<title>STRENGTH</title>
+
+<para>1.IT IS LESS IN PRICE.</para>
+
+<para>2.HELPS IN EDUCATING PEOPLE</para>
+
+<para>3.WE CAN CHOOSE ADVERTISEMENT OR LED TO ACTIVATE. </para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md22">
+<title>WEAKNESS</title>
+
+<para>CAN BE LESS POWEFULL IN CLOUDY WEATHER </para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md23">
+<title>OPPORTUNITY</title>
+
+<para>INTERNET OF THINGS(IOT) </para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md24">
+<title>THREATS</title>
+
+<para>CAN BE EASYLY BROKEN </para>
+</section>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md25">
+<title>Components and Software required</title>
+
+<para>1.<link xlink:href="https://www.arrow.com/en/products/atmega328p-pn/microchip-technology">Atmega28p</link> - A single-chip microcontroller created by Atmel in the megaAVR family</para>
+
+<para>2.<link xlink:href="https://www.simulide.com/p/home.html">SimulIDE</link> - A simple real time electronic circuit simulator</para>
+
+<para>3.<link xlink:href="https://code.visualstudio.com/">VS Code</link> - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications</para>
+
+<para>4.[LED]() - A light-emitting diode (LED) is a semiconductor light source that emits light when current flows through it</para>
+
+<para>5.<link xlink:href="https://www.microchip.com/en-us/tools-resources/develop/microchip-studio">Atmel Studio</link> - The Atmel Studio 7 IDP gives you a seamless and easy-to-use environment to write, build, and debug your applications written in C/C++ or assembly code. It also connects seamlessly to the debuggers, programmers, and development kits that support AVR.</para>
+
+<para>6.[DC Motor]() - A DC motor is any of a class of rotary electrical motors that converts direct current electrical energy into mechanical energy. </para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md26">
+<title>Applications</title>
+
+<para>1.Billboard advertisements are designed to catch a person&apos;s attention and create a memorable impression very quickly, leaving the reader thinking about the advertisement after they have driven past it. They have to be readable in a very short time because they are usually read while being passed at high speeds.</para>
+
+<para>2.The advertising design is the artwork that is visual and created for advertisements specifically. Graphic design has become synonymous with the world of advertising, and visual representations of products and services are essential for any brand to get its message across to the public</para>
+
+<para>3.Can be placed anyware Advertising billboards are placed strategically along major thoroughfares and highways, thus, increasing the possibilities of being seen by a great number of consumers all throughout the day.</para>
+
+<para>4.Access to Targeted Audience since billboards can be placed in areas chosen by advertisers or companies, it will be easier for these companies to reach a particular or specific consumer group they sell their services and products to </para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md27">
+<title>Implementation Block Diagram</title>
+
+<para> </para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md28">
+<title>In Action</title>
+
+<para><informaltable frame="all">
+    <tgroup cols="2" align="left" colsep="1" rowsep="1">
+      <colspec colname='c1'/>
+      <colspec colname='c2'/>
+<thead>
+      <row  class='markdownTableHead'>
+<entry align='center'>
+<para>ON   </para>
+</entry><entry align='center'>
+<para>OFF    </para>
+</entry></row>
+</thead><tbody>
+      <row  class='markdownTableRowOdd'>
+<entry align='center'>
+<para>   </para>
+</entry><entry align='center'>
+<para>   </para>
+</entry></row>
+    </tbody>
+    </tgroup>
+</informaltable>
+</para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md29">
+<title>Working and Simulation</title>
+
+<para> </para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_5__report__r_e_a_d_m_e_1autotoc_md30">
+<title>THANK YOU</title>
+</section>
+</section>

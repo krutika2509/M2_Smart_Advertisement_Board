@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_4__test_case__t_e_s_t__p_l_a_n__r_e_a_d_m_e" xml:lang="en-US">
+
+<para>1.To know the importnace of the project.</para>
+
+<para>2.To know the work in specific conditions.</para>
+
+<para>3.Working Principle and architecture of the simulide.</para>
+
+<para>4.To verify the microcontroller chip. </para>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_4__test_case__t_e_s_t__p_l_a_n__r_e_a_d_m_e_1autotoc_md8">
+<title>Test Cases</title>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_4__test_case__t_e_s_t__p_l_a_n__r_e_a_d_m_e_1autotoc_md9">
+<title>Folder structure</title>
+
+<para><informaltable frame="all">
+    <tgroup cols="3" align="left" colsep="1" rowsep="1">
+      <colspec colname='c1'/>
+      <colspec colname='c2'/>
+      <colspec colname='c3'/>
+<thead>
+      <row  class='markdownTableHead'>
+<entry>
+<para>SL. NO.   </para>
+</entry><entry>
+<para>Description   </para>
+</entry><entry>
+<para>Test cases    </para>
+</entry></row>
+</thead><tbody>
+      <row  class='markdownTableRowOdd'>
+<entry>
+<para>1   </para>
+</entry><entry>
+<para>DC motor   </para>
+</entry><entry>
+<para>passed    </para>
+</entry></row>
+      <row  class='markdownTableRowEven'>
+<entry>
+<para>2   </para>
+</entry><entry>
+<para>Audio out   </para>
+</entry><entry>
+<para>passed    </para>
+</entry></row>
+      <row  class='markdownTableRowOdd'>
+<entry>
+<para>3   </para>
+</entry><entry>
+<para>LED&apos;s   </para>
+</entry><entry>
+<para>passed    </para>
+</entry></row>
+      <row  class='markdownTableRowEven'>
+<entry>
+<para>4   </para>
+</entry><entry>
+<para>voltage source   </para>
+</entry><entry>
+<para>passed   </para>
+</entry></row>
+    </tbody>
+    </tgroup>
+</informaltable>
+</para>
+</section>
+</section>
+</section>

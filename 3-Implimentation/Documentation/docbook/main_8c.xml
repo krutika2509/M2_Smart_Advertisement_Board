@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_main_8c" xml:lang="en-US">
+<title>C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/3-Implimentation/main.c File Reference</title>
+<indexterm><primary>C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/3-Implimentation/main.c</primary></indexterm>
+<programlisting linenumbering="unnumbered">#include &lt;xc.h&gt;
+#include &lt;avr/io.h&gt;
+#include &lt;util/delay.h&gt;
+</programlisting><simplesect>
+    <title>Macros    </title>
+        <itemizedlist>
+            <listitem><para>#define <link linkend="_main_8c_1a43bafb28b29491ec7f871319b5a3b2f8">F_CPU</link>   16000000</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Functions    </title>
+        <itemizedlist>
+            <listitem><para>int <link linkend="_main_8c_1a840291bc02cba5474a4cb46a9b9566fe">main</link> (void)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Macro Definition Documentation</title>
+<anchor xml:id="_main_8c_1a43bafb28b29491ec7f871319b5a3b2f8"/><section>
+    <title>F_CPU</title>
+<indexterm><primary>F_CPU</primary><secondary>main.c</secondary></indexterm>
+<indexterm><primary>main.c</primary><secondary>F_CPU</secondary></indexterm>
+<para><computeroutput>#define F_CPU   16000000</computeroutput></para><para>
+Definition at line <link linkend="_main_8c_source_1l00008">8</link> of file <link linkend="_main_8c_source">main.c</link>.</para>
+</section>
+</section>
+<section>
+<title>Function Documentation</title>
+<anchor xml:id="_main_8c_1a840291bc02cba5474a4cb46a9b9566fe"/><section>
+    <title>main()</title>
+<indexterm><primary>main</primary><secondary>main.c</secondary></indexterm>
+<indexterm><primary>main.c</primary><secondary>main</secondary></indexterm>
+<para><computeroutput>int main (void )</computeroutput></para><para>
+Definition at line <link linkend="_main_8c_source_1l00012">12</link> of file <link linkend="_main_8c_source">main.c</link>.</para>
+</section>
+</section>
+</section>

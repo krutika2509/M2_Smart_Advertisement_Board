@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_1__requirments__r_e_a_d_m_e" xml:lang="en-US">
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_1__requirments__r_e_a_d_m_e_1autotoc_md5">
+<title>High level Requirements</title>
+
+<para><informaltable frame="all">
+    <tgroup cols="3" align="left" colsep="1" rowsep="1">
+      <colspec colname='c1'/>
+      <colspec colname='c2'/>
+      <colspec colname='c3'/>
+<thead>
+      <row  class='markdownTableHead'>
+<entry>
+<para>ID   </para>
+</entry><entry>
+<para>Description   </para>
+</entry><entry>
+<para>Status    </para>
+</entry></row>
+</thead><tbody>
+      <row  class='markdownTableRowOdd'>
+<entry>
+<para>HLR1   </para>
+</entry><entry>
+<para>Atmega328   </para>
+</entry><entry>
+<para>Microcontroller used for the process    </para>
+</entry></row>
+      <row  class='markdownTableRowEven'>
+<entry>
+<para>HLR2   </para>
+</entry><entry>
+<para>DC Motor   </para>
+</entry><entry>
+<para>To chnge the advertisement    </para>
+</entry></row>
+      <row  class='markdownTableRowOdd'>
+<entry>
+<para>HLR3   </para>
+</entry><entry>
+<para>Volt. Source   </para>
+</entry><entry>
+<para>Power source   </para>
+</entry></row>
+    </tbody>
+    </tgroup>
+</informaltable>
+</para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_1__requirments__r_e_a_d_m_e_1autotoc_md6">
+<title>Low level Requirements</title>
+
+<para><informaltable frame="all">
+    <tgroup cols="3" align="left" colsep="1" rowsep="1">
+      <colspec colname='c1'/>
+      <colspec colname='c2'/>
+      <colspec colname='c3'/>
+<thead>
+      <row  class='markdownTableHead'>
+<entry>
+<para>ID   </para>
+</entry><entry>
+<para>Description   </para>
+</entry><entry>
+<para>Status    </para>
+</entry></row>
+</thead><tbody>
+      <row  class='markdownTableRowOdd'>
+<entry>
+<para>LLR1   </para>
+</entry><entry>
+<para>Audio out   </para>
+</entry><entry>
+<para>advertisement sound    </para>
+</entry></row>
+      <row  class='markdownTableRowEven'>
+<entry>
+<para>LLR2   </para>
+</entry><entry>
+<para>Led&apos;s   </para>
+</entry><entry>
+<para>For Alternative Blinking   </para>
+</entry></row>
+    </tbody>
+    </tgroup>
+</informaltable>
+</para>
+</section>
+</section>

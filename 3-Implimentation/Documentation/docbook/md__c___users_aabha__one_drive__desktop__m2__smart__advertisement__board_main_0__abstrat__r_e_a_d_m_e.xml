@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_0__abstrat__r_e_a_d_m_e" xml:lang="en-US">
+
+<para>In this project, I have created a smart advertising board that will get electrictiy form the solar panel and will store it in the battery banks. At night battry packs will take paower from the battery pack and it will help to glow the main head led strip and also the atmega328. By doing this porject we can make use of solar power in terms of advertising as well, From a long time i have seen that either big tv&apos;s or even large gigantic banners are used for the purpose of advertisement and in a nutshell i can say that it will consume more power as compared to my project. But it all changes with my project with my project we can use solar power and simple foled banners to do the advertisement. Which can attract the audience by its audio and will be very less in terms of the energy consumption as well. Smart_Advertisement_Board can have as many advertisement as we like and depending on the size of the board used for the same. It can be easyly used by the govt and the private sectors to advertise theself without breaking the bank. </para>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_0__abstrat__r_e_a_d_m_e_1autotoc_md1">
+<title>Assumption</title>
+
+<para>As we know simulide dont have solar panel powered battries so for the sole purpose of successfull simulation we have assumed that as a voltage source. We also know that ATmega 328 in simulide has predefined VCC and GND conection so we have not supplied any votage source in that. </para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_0__abstrat__r_e_a_d_m_e_1autotoc_md2">
+<title>Folder structure</title>
+
+<para><informaltable frame="all">
+    <tgroup cols="2" align="left" colsep="1" rowsep="1">
+      <colspec colname='c1'/>
+      <colspec colname='c2'/>
+<thead>
+      <row  class='markdownTableHead'>
+<entry>
+<para>Folder   </para>
+</entry><entry>
+<para>Description    </para>
+</entry></row>
+</thead><tbody>
+      <row  class='markdownTableRowOdd'>
+<entry>
+<para>0_Abstrat   </para>
+</entry><entry>
+<para>Brief intoroduction of the project title    </para>
+</entry></row>
+      <row  class='markdownTableRowEven'>
+<entry>
+<para>1_Requirements   </para>
+</entry><entry>
+<para>Detailed Requirements of our project    </para>
+</entry></row>
+      <row  class='markdownTableRowOdd'>
+<entry>
+<para>2_Designs   </para>
+</entry><entry>
+<para>All Designs    </para>
+</entry></row>
+      <row  class='markdownTableRowEven'>
+<entry>
+<para>3_Implementation   </para>
+</entry><entry>
+<para>All code and Makefile    </para>
+</entry></row>
+      <row  class='markdownTableRowOdd'>
+<entry>
+<para>4_TestPlan   </para>
+</entry><entry>
+<para>Process of the project    </para>
+</entry></row>
+      <row  class='markdownTableRowEven'>
+<entry>
+<para>5_Report   </para>
+</entry><entry>
+<para>Detaied Process and Goal    </para>
+</entry></row>
+      <row  class='markdownTableRowOdd'>
+<entry>
+<para>6_Output   </para>
+</entry><entry>
+<para>Images and videos of output   </para>
+</entry></row>
+    </tbody>
+    </tgroup>
+</informaltable>
+</para>
+</section>
+<section xml:id="_md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_0__abstrat__r_e_a_d_m_e_1autotoc_md3">
+<title>Project photo</title>
+
+<para> </para>
+</section>
+</section>
