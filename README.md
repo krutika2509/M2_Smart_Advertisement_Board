@@ -9,7 +9,7 @@ Smart Advertisement Board can have as many advertisement as we like and dependin
 
 ![This is an image](https://api.codiga.io/project/33098/score/svg)
 
-### Folder structure
+## Folder structure
 | Folder | 	Description |
 | -- | ------------ |
 | 0_Abstrat | Brief intoroduction of the project title | 
