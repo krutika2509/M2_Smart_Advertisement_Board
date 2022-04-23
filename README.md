@@ -1,4 +1,7 @@
 # M2 Smart Advertisement Board
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ce841afd748c440ea83e26321c44e4be)](https://app.codacy.com/gh/krutika2509/M2_Smart_Advertisement_Board?utm_source=github.com&utm_medium=referral&utm_content=krutika2509/M2_Smart_Advertisement_Board&utm_campaign=Badge_Grade_Settings)
+
 Smart Advertisement Board using ATmega328 and simuide
 In today’s world, all of us are under the influence of ‘Advertisement’. Right from buying groceries to children’s study materials, finding a holiday spot to watching a movie, selecting restaurant for dinner to booking a banquet hall for special events, and searching educational institutions to hunting for a company to find jobs, almost every act is guided and decided by advertisements.
 In this project, I have created a smart advertising board that will get electrictiy form the solar panel and will store it in the battery banks. At night battery packs will take paower from the battery pack and it will help to glow the main head led strip and also the atmega328. 
