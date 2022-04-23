@@ -5,8 +5,10 @@ In this project, I have created a smart advertising board that will get electric
 By doing this porject we can make use of solar power in terms of advertising as well, From a long time i have seen that either big tv's or even large gigantic banners are used for the purpose of advertisement and in a nutshell i can say that it will consume more power as compared to my project. But it all changes with my project with my project we can use solar power and simple foled banners to do the advertisement. Which can attract the audience by its audio and will be very less in terms of the energy consumption as well. 
 Smart Advertisement Board can have as many advertisement as we like and depending on the size of the board used for the same. It can be easyly used by the govt and the private sectors to advertise theself without breaking the bank. 
 ## Badges
-https://api.codiga.io/project/33098/status/svg
 ![This is an image](https://api.codiga.io/project/33098/status/svg)
+
+![This is an image](https://api.codiga.io/project/33098/score/svg)
+
 ### Folder structure
 | Folder | 	Description |
 | -- | ------------ |
