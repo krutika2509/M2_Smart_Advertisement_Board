@@ -9,6 +9,8 @@ Smart Advertisement Board can have as many advertisement as we like and dependin
 
 ![This is an image](https://api.codiga.io/project/33098/score/svg)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4a40c18127954803b5ce515e7639bbe1)](https://www.codacy.com/gh/krutika2509/M2_Smart_Advertisement_Board/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=krutika2509/M2_Smart_Advertisement_Board&amp;utm_campaign=Badge_Grade)
+
 ## Folder structure
 | Folder | 	Description |
 | -- | ------------ |
