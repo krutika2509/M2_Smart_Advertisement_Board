@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="5-_report_2_r_e_a_d_m_e_8md" kind="file" language="Markdown">
+    <compoundname>README.md</compoundname>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline><highlight class="normal">#<sp/>OBJECTIVE<sp/>OF<sp/>THIS<sp/>PROJECT</highlight></codeline>
+<codeline><highlight class="normal">An<sp/><sp/>Avertisement<sp/>board<sp/>is<sp/>for<sp/>attracting<sp/>the<sp/>people<sp/>around<sp/>us<sp/>and<sp/>also<sp/>to<sp/>make<sp/>aware<sp/>of<sp/>our<sp/>porduct.<sp/>Advertising<sp/>board.<sp/>An<sp/>advertising<sp/>board,<sp/>or<sp/>A-board,<sp/>is<sp/>usually<sp/>a<sp/>term<sp/>reserved<sp/>for<sp/>the<sp/>advertising<sp/>hoardings<sp/>seen<sp/>at<sp/>association<sp/>football<sp/>matches,<sp/>although<sp/>there<sp/>are<sp/>other<sp/>more<sp/>general<sp/>forms<sp/>such<sp/>as<sp/>billboards<sp/>and<sp/>posters.</highlight></codeline>
+<codeline><highlight class="normal">##<sp/>INTRODUCTION</highlight></codeline>
+<codeline><highlight class="normal">With<sp/>the<sp/>help<sp/>of<sp/>this<sp/>project<sp/>we<sp/>can<sp/>advertise<sp/>our<sp/>products,<sp/>as<sp/>comparied<sp/>to<sp/>an<sp/>conventional<sp/>led<sp/>board<sp/>it<sp/>will<sp/>conusme<sp/>less<sp/>power<sp/>and<sp/>its<sp/>fully<sp/>automated<sp/>inaddition<sp/>to<sp/>that<sp/>it<sp/>can<sp/>easy<sp/>be<sp/>replaced<sp/>when<sp/>needed.<sp/>we<sp/>can<sp/>advertise<sp/>or<sp/>make<sp/>people<sp/>aware<sp/>of<sp/>the<sp/>sourounds<sp/>or<sp/>even<sp/>Govternment<sp/>can<sp/>use<sp/>it<sp/>introduce<sp/>new<sp/>scheme<sp/>and<sp/>make<sp/>mass<sp/>educated<sp/>form<sp/>the<sp/>same.<sp/>The<sp/>advertising<sp/>design<sp/>is<sp/>the<sp/>artwork<sp/>that<sp/>is<sp/>visual<sp/>and<sp/>created<sp/>for<sp/>advertisements<sp/>specifically.<sp/>Graphic<sp/>design<sp/>has<sp/>become<sp/>synonymous<sp/>with<sp/>the<sp/>world<sp/>of<sp/>advertising,<sp/>and<sp/>visual<sp/>representations<sp/>of<sp/>products<sp/>and<sp/>services<sp/>are<sp/>essential<sp/>for<sp/>any<sp/>brand<sp/>to<sp/>get<sp/>its<sp/>message<sp/>across<sp/>to<sp/>the<sp/>public.<sp/>Advertising<sp/>has<sp/>three<sp/>primary<sp/>objectives:<sp/>to<sp/>inform,<sp/>to<sp/>persuade,<sp/>and<sp/>to<sp/>remind.<sp/>Informative<sp/>Advertising<sp/>creates<sp/>awareness<sp/>of<sp/>brands,<sp/>products,<sp/>services,<sp/>and<sp/>ideas.</highlight></codeline>
+<codeline><highlight class="normal">##<sp/>COMPONENTS<sp/>AND<sp/>SUPPLIES</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">1.ATmega328p<sp/></highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">2.LED<sp/>bulb<sp/>and<sp/>LED<sp/>strip</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">3.Connecting<sp/>Wires</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">4.Audio<sp/>out</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">5.10<sp/>V<sp/>voltage<sp/>source</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">6.DC<sp/>motor</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">7.Advertisement<sp/>board</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">8.Banner<sp/>with<sp/>advertisement<sp/>in<sp/>rolled<sp/>format.</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">##<sp/>ADVANTAGES</highlight></codeline>
+<codeline><highlight class="normal">1.A<sp/>advertisement<sp/>board<sp/>help<sp/>people<sp/>and<sp/>company<sp/>to<sp/>advertise<sp/>there<sp/>porducts<sp/>and<sp/>ideas<sp/>to<sp/>the<sp/>masses.</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">2.Govternment<sp/>can<sp/>also<sp/>use<sp/>this<sp/>technology<sp/>to<sp/>introduce<sp/>new<sp/>schemes<sp/>to<sp/>the<sp/>people.<sp/></highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">##<sp/>4W<sp/>&amp;<sp/>H<sp/><sp/>(WHO,WHAT,WHEN,WHERE,HOW)</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">###<sp/>WHO</highlight></codeline>
+<codeline><highlight class="normal">A<sp/>ADVERTISEMENT<sp/>BOARD<sp/>IS<sp/>USED<sp/>TO<sp/>ADVERTISE<sp/>NEW<sp/>PRODUCTS<sp/>AND<sp/>IDEAS<sp/>AND<sp/>ALSO<sp/>ATTRACT<sp/>PROPLE.<sp/></highlight></codeline>
+<codeline><highlight class="normal">###<sp/>WHAT</highlight></codeline>
+<codeline><highlight class="normal">HIGH<sp/>RELIABILITY.<sp/></highlight></codeline>
+<codeline><highlight class="normal">###<sp/>WHEN</highlight></codeline>
+<codeline><highlight class="normal">IT<sp/>CAN<sp/>BE<sp/>USED<sp/>ANY<sp/>TIME<sp/>MOSTLY.</highlight></codeline>
+<codeline><highlight class="normal">###<sp/>WHERE</highlight></codeline>
+<codeline><highlight class="normal">ANYWARE<sp/>WHERE<sp/>PEOPLE<sp/>CAN<sp/>SEE.</highlight></codeline>
+<codeline><highlight class="normal">###<sp/>HOW</highlight></codeline>
+<codeline><highlight class="normal">EASY<sp/>TO<sp/>USE<sp/>AND<sp/>ADJUSTED<sp/>IN<sp/>A<sp/>IN<sp/>CROUDED<sp/>AREAS.</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">##<sp/>SWOT(STRENGTH,WEAKNESS,OPPORTUNITY,THREATS)</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">###<sp/>STRENGTH</highlight></codeline>
+<codeline><highlight class="normal">1.IT<sp/>IS<sp/>LESS<sp/>IN<sp/>PRICE.</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">2.HELPS<sp/>IN<sp/>EDUCATING<sp/>PEOPLE</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">3.WE<sp/>CAN<sp/>CHOOSE<sp/>ADVERTISEMENT<sp/>OR<sp/>LED<sp/>TO<sp/>ACTIVATE.</highlight></codeline>
+<codeline><highlight class="normal">###<sp/>WEAKNESS</highlight></codeline>
+<codeline><highlight class="normal">CAN<sp/>BE<sp/>LESS<sp/>POWEFULL<sp/>IN<sp/>CLOUDY<sp/>WEATHER<sp/></highlight></codeline>
+<codeline><highlight class="normal">###<sp/>OPPORTUNITY</highlight></codeline>
+<codeline><highlight class="normal">INTERNET<sp/>OF<sp/>THINGS(IOT)</highlight></codeline>
+<codeline><highlight class="normal">###<sp/>THREATS</highlight></codeline>
+<codeline><highlight class="normal">CAN<sp/>BE<sp/>EASYLY<sp/>BROKEN</highlight></codeline>
+<codeline><highlight class="normal">##<sp/>Components<sp/>and<sp/>Software<sp/>required</highlight></codeline>
+<codeline><highlight class="normal">1.[Atmega28p](https://www.arrow.com/en/products/atmega328p-pn/microchip-technology)<sp/>-<sp/>A<sp/>single-chip<sp/>microcontroller<sp/>created<sp/>by<sp/>Atmel<sp/>in<sp/>the<sp/>megaAVR<sp/>family</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">2.[SimulIDE](https://www.simulide.com/p/home.html)<sp/>-<sp/><sp/>A<sp/>simple<sp/>real<sp/>time<sp/>electronic<sp/>circuit<sp/>simulator</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">3.[VS<sp/>Code](https://code.visualstudio.com/)<sp/>-<sp/>Visual<sp/>Studio<sp/>Code<sp/>is<sp/>a<sp/>code<sp/>editor<sp/>redefined<sp/>and<sp/>optimized<sp/>for<sp/>building<sp/>and<sp/>debugging<sp/>modern<sp/>web<sp/>and<sp/>cloud<sp/>applications</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">4.[LED]()<sp/>-<sp/>A<sp/>light-emitting<sp/>diode<sp/>(LED)<sp/>is<sp/>a<sp/>semiconductor<sp/>light<sp/>source<sp/>that<sp/>emits<sp/>light<sp/>when<sp/>current<sp/>flows<sp/>through<sp/>it</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">5.[Atmel<sp/>Studio](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio)<sp/>-<sp/>The<sp/>Atmel<sp/>Studio<sp/>7<sp/>IDP<sp/>gives<sp/>you<sp/>a<sp/>seamless<sp/>and<sp/>easy-to-use<sp/>environment<sp/>to write,<sp/>build,<sp/>and<sp/>debug<sp/>your<sp/>applications<sp/>written<sp/>in<sp/>C/C++<sp/>or<sp/>assembly<sp/>code.<sp/>It<sp/>also<sp/>connects<sp/>seamlessly<sp/>to<sp/>the<sp/>debuggers,<sp/>programmers,<sp/>and<sp/>development<sp/>kits<sp/>that<sp/>support<sp/>AVR.</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">6.[DC<sp/>Motor]()<sp/>-<sp/>A<sp/>DC<sp/>motor<sp/>is<sp/>any<sp/>of<sp/>a<sp/>class<sp/>of<sp/>rotary<sp/>electrical<sp/>motors<sp/>that<sp/>converts<sp/>direct<sp/>current<sp/>electrical<sp/>energy<sp/>into<sp/>mechanical<sp/>energy. </highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">##<sp/>Applications</highlight></codeline>
+<codeline><highlight class="normal">1.Billboard<sp/>advertisements<sp/>are<sp/>designed<sp/>to<sp/>catch<sp/>a<sp/>person&apos;s<sp/>attention<sp/>and<sp/>create<sp/>a<sp/>memorable<sp/>impression<sp/>very<sp/>quickly,<sp/>leaving<sp/>the<sp/>reader<sp/>thinking<sp/>about<sp/>the<sp/>advertisement<sp/>after<sp/>they<sp/>have<sp/>driven<sp/>past<sp/>it.<sp/>They<sp/>have<sp/>to<sp/>be<sp/>readable<sp/>in<sp/>a<sp/>very<sp/>short<sp/>time<sp/>because<sp/>they<sp/>are<sp/>usually<sp/>read<sp/>while<sp/>being<sp/>passed<sp/>at<sp/>high<sp/>speeds.<sp/></highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">2.The<sp/>advertising<sp/>design<sp/>is<sp/>the<sp/>artwork<sp/>that<sp/>is<sp/>visual<sp/>and<sp/>created<sp/>for<sp/>advertisements<sp/>specifically.<sp/>Graphic<sp/>design<sp/>has<sp/>become<sp/>synonymous<sp/>with<sp/>the<sp/>world<sp/>of<sp/>advertising,<sp/>and<sp/>visual<sp/>representations<sp/>of<sp/>products<sp/>and<sp/>services<sp/>are<sp/>essential<sp/>for<sp/>any<sp/>brand<sp/>to<sp/>get<sp/>its<sp/>message<sp/>across<sp/>to<sp/>the<sp/>public</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">3.Can<sp/>be<sp/>placed<sp/>anyware<sp/>Advertising<sp/>billboards<sp/>are<sp/>placed<sp/>strategically<sp/>along<sp/>major<sp/>thoroughfares<sp/>and<sp/>highways,<sp/>thus,<sp/>increasing<sp/>the<sp/>possibilities<sp/>of<sp/>being<sp/>seen<sp/>by<sp/>a<sp/>great<sp/>number<sp/>of<sp/>consumers<sp/>all<sp/>throughout<sp/>the<sp/>day.</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">4.Access<sp/>to<sp/>Targeted<sp/>Audience<sp/>since<sp/>billboards<sp/>can<sp/>be<sp/>placed<sp/>in<sp/>areas<sp/>chosen<sp/>by<sp/>advertisers<sp/>or<sp/>companies,<sp/>it<sp/>will<sp/>be<sp/>easier<sp/>for<sp/>these<sp/>companies<sp/>to<sp/>reach<sp/>a<sp/>particular<sp/>or<sp/>specific<sp/>consumer<sp/>group<sp/>they<sp/>sell<sp/>their<sp/>services<sp/>and<sp/>products<sp/>to</highlight></codeline>
+<codeline><highlight class="normal">##<sp/>Implementation<sp/>Block<sp/>Diagram<sp/></highlight></codeline>
+<codeline><highlight class="normal">![BLOCK<sp/>DIAGRAM](https://user-images.githubusercontent.com/104137902/164891719-ec0b99f4-1b2d-4d56-8a16-b177ae2867bd.png)</highlight></codeline>
+<codeline><highlight class="normal">##<sp/>In<sp/>Action</highlight></codeline>
+<codeline><highlight class="normal">|ON|OFF|</highlight></codeline>
+<codeline><highlight class="normal">|:--:|:--:|</highlight></codeline>
+<codeline><highlight class="normal">|![ON<sp/>CONDITON](https://user-images.githubusercontent.com/104137902/164891779-357e38c7-2c67-477b-b736-82aff7eda6ec.png)|![OFF<sp/>CONDITION](https://user-images.githubusercontent.com/104137902/164891792-05dfbca9-604f-4fc0-a01f-f2ea7df4aae8.png)|</highlight></codeline>
+<codeline><highlight class="normal">##<sp/>Working<sp/>and<sp/>Simulation</highlight></codeline>
+<codeline><highlight class="normal">![23-04-22_16-41_11](https://user-images.githubusercontent.com/104137902/164892099-51c62c34-3dd2-44d5-942f-d0504706655f.gif)</highlight></codeline>
+<codeline><highlight class="normal">##<sp/>THANK<sp/>YOU</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/5-Report/README.md"/>
+  </compounddef>
+</doxygen>

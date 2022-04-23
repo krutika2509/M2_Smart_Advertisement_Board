@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_1__requirments__r_e_a_d_m_e" kind="page">
+    <compoundname>md_C__Users_aabha_OneDrive_Desktop_M2_Smart_Advertisement_Board_main_1_Requirments_README</compoundname>
+    <title>Details requirements</title>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<sect1 id="md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_1__requirments__r_e_a_d_m_e_1autotoc_md5">
+<title>High level Requirements</title>
+<para><table rows="4" cols="3"><row>
+<entry thead="yes"><para>ID   </para>
+</entry><entry thead="yes"><para>Description   </para>
+</entry><entry thead="yes"><para>Status    </para>
+</entry></row>
+<row>
+<entry thead="no"><para>HLR1   </para>
+</entry><entry thead="no"><para>Atmega328   </para>
+</entry><entry thead="no"><para>Microcontroller used for the process    </para>
+</entry></row>
+<row>
+<entry thead="no"><para>HLR2   </para>
+</entry><entry thead="no"><para>DC Motor   </para>
+</entry><entry thead="no"><para>To chnge the advertisement    </para>
+</entry></row>
+<row>
+<entry thead="no"><para>HLR3   </para>
+</entry><entry thead="no"><para>Volt. Source   </para>
+</entry><entry thead="no"><para>Power source   </para>
+</entry></row>
+</table>
+</para>
+</sect1>
+<sect1 id="md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_1__requirments__r_e_a_d_m_e_1autotoc_md6">
+<title>Low level Requirements</title>
+<para><table rows="3" cols="3"><row>
+<entry thead="yes"><para>ID   </para>
+</entry><entry thead="yes"><para>Description   </para>
+</entry><entry thead="yes"><para>Status    </para>
+</entry></row>
+<row>
+<entry thead="no"><para>LLR1   </para>
+</entry><entry thead="no"><para>Audio out   </para>
+</entry><entry thead="no"><para>advertisement sound    </para>
+</entry></row>
+<row>
+<entry thead="no"><para>LLR2   </para>
+</entry><entry thead="no"><para>Led&apos;s   </para>
+</entry><entry thead="no"><para>For Alternative Blinking   </para>
+</entry></row>
+</table>
+</para>
+</sect1>
+    </detaileddescription>
+    <location file="C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/1-Requirments/README.md"/>
+  </compounddef>
+</doxygen>

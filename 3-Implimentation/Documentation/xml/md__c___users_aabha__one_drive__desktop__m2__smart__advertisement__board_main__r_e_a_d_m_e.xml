@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main__r_e_a_d_m_e" kind="page">
+    <compoundname>md_C__Users_aabha_OneDrive_Desktop_M2_Smart_Advertisement_Board_main_README</compoundname>
+    <title>M2 Smart Advertisement Board</title>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Smart Advertisement Board using ATmega328 and simuide In today’s world, all of us are under the influence of ‘Advertisement’. Right from buying groceries to children’s study materials, finding a holiday spot to watching a movie, selecting restaurant for dinner to booking a banquet hall for special events, and searching educational institutions to hunting for a company to find jobs, almost every act is guided and decided by advertisements. In this project, I have created a smart advertising board that will get electrictiy form the solar panel and will store it in the battery banks. At night battery packs will take paower from the battery pack and it will help to glow the main head led strip and also the atmega328. By doing this porject we can make use of solar power in terms of advertising as well, From a long time i have seen that either big tv&apos;s or even large gigantic banners are used for the purpose of advertisement and in a nutshell i can say that it will consume more power as compared to my project. But it all changes with my project with my project we can use solar power and simple foled banners to do the advertisement. Which can attract the audience by its audio and will be very less in terms of the energy consumption as well. Smart Advertisement Board can have as many advertisement as we like and depending on the size of the board used for the same. It can be easyly used by the govt and the private sectors to advertise theself without breaking the bank. </para>
+<sect1 id="md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main__r_e_a_d_m_e_1autotoc_md33">
+<title>Badges</title>
+<para><image type="html" name="https://api.codiga.io/project/33098/status/svg" alt="This is an image" inline="yes"></image>
+</para>
+<para><image type="html" name="https://api.codiga.io/project/33098/score/svg" alt="This is an image" inline="yes"></image>
+</para>
+<para><ulink url="https://www.codacy.com/gh/krutika2509/M2_Smart_Advertisement_Board/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=krutika2509/M2_Smart_Advertisement_Board&amp;utm_campaign=Badge_Grade"><image type="html" name="https://app.codacy.com/project/badge/Grade/4a40c18127954803b5ce515e7639bbe1" alt="Codacy Badge" inline="yes"></image>
+</ulink></para>
+<para><image type="html" name="https://img.shields.io/github/issues/krutika2509/M2_Smart_Advertisement_Board" alt="This is an image" inline="yes"></image>
+</para>
+<para><image type="html" name="https://img.shields.io/github/forks/krutika2509/M2_Smart_Advertisement_Board" alt="This is an image" inline="yes"></image>
+</para>
+</sect1>
+<sect1 id="md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main__r_e_a_d_m_e_1autotoc_md34">
+<title>Folder structure</title>
+<para><table rows="8" cols="2"><row>
+<entry thead="yes"><para>Folder   </para>
+</entry><entry thead="yes"><para>Description    </para>
+</entry></row>
+<row>
+<entry thead="no"><para>0_Abstrat   </para>
+</entry><entry thead="no"><para>Brief intoroduction of the project title    </para>
+</entry></row>
+<row>
+<entry thead="no"><para>1_Requirements   </para>
+</entry><entry thead="no"><para>Detailed Requirements of our project    </para>
+</entry></row>
+<row>
+<entry thead="no"><para>2_Designs   </para>
+</entry><entry thead="no"><para>All Designs    </para>
+</entry></row>
+<row>
+<entry thead="no"><para>3_Implementation   </para>
+</entry><entry thead="no"><para>All code and Makefile    </para>
+</entry></row>
+<row>
+<entry thead="no"><para>4_TestPlan   </para>
+</entry><entry thead="no"><para>Process of the project    </para>
+</entry></row>
+<row>
+<entry thead="no"><para>5_Report   </para>
+</entry><entry thead="no"><para>Detaied Process and Goal    </para>
+</entry></row>
+<row>
+<entry thead="no"><para>6_Output   </para>
+</entry><entry thead="no"><para>Images and videos of output   </para>
+</entry></row>
+</table>
+</para>
+</sect1>
+    </detaileddescription>
+    <location file="C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/README.md"/>
+  </compounddef>
+</doxygen>

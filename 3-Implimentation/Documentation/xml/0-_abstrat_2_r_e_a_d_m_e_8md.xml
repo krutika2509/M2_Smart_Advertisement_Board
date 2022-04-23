@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="0-_abstrat_2_r_e_a_d_m_e_8md" kind="file" language="Markdown">
+    <compoundname>README.md</compoundname>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline><highlight class="normal">#<sp/>M2-Smart_Advertisement_Board</highlight></codeline>
+<codeline><highlight class="normal">In<sp/>this<sp/>project,<sp/>I<sp/>have<sp/>created<sp/>a<sp/>smart<sp/>advertising<sp/>board<sp/>that<sp/>will<sp/>get<sp/>electrictiy<sp/>form<sp/>the<sp/>solar<sp/>panel<sp/>and<sp/>will<sp/>store<sp/>it<sp/>in<sp/>the<sp/>battery<sp/>banks.<sp/>At<sp/>night<sp/>battry<sp/>packs<sp/>will<sp/>take<sp/>paower<sp/>from<sp/>the<sp/>battery<sp/>pack<sp/>and<sp/>it<sp/>will<sp/>help<sp/>to<sp/>glow<sp/>the<sp/>main<sp/>head<sp/>led<sp/>strip<sp/>and<sp/>also<sp/>the<sp/>atmega328.<sp/></highlight></codeline>
+<codeline><highlight class="normal">By<sp/>doing<sp/>this<sp/>porject<sp/>we<sp/>can<sp/>make<sp/>use<sp/>of<sp/>solar<sp/>power<sp/>in<sp/>terms<sp/>of<sp/>advertising<sp/>as<sp/>well,<sp/>From<sp/>a<sp/>long<sp/>time<sp/>i<sp/>have<sp/>seen<sp/>that<sp/>either<sp/>big<sp/>tv&apos;s<sp/>or<sp/>even<sp/>large<sp/>gigantic<sp/>banners<sp/>are<sp/>used<sp/>for<sp/>the<sp/>purpose<sp/>of<sp/>advertisement<sp/>and<sp/>in<sp/>a<sp/>nutshell<sp/>i<sp/>can<sp/>say<sp/>that<sp/>it<sp/>will<sp/>consume<sp/>more<sp/>power<sp/>as<sp/>compared<sp/>to<sp/>my<sp/>project.<sp/>But<sp/>it<sp/>all<sp/>changes<sp/>with<sp/>my<sp/>project<sp/>with<sp/>my<sp/>project<sp/>we<sp/>can<sp/>use<sp/>solar<sp/>power<sp/>and<sp/>simple<sp/>foled<sp/>banners<sp/>to<sp/>do<sp/>the<sp/>advertisement.<sp/>Which<sp/>can<sp/>attract<sp/>the<sp/>audience<sp/>by<sp/>its<sp/>audio<sp/>and<sp/>will<sp/>be<sp/>very<sp/>less<sp/>in<sp/>terms<sp/>of<sp/>the<sp/>energy<sp/>consumption<sp/>as<sp/>well.<sp/></highlight></codeline>
+<codeline><highlight class="normal">Smart_Advertisement_Board<sp/>can<sp/>have<sp/>as<sp/>many<sp/>advertisement<sp/>as<sp/>we<sp/>like<sp/>and<sp/>depending<sp/>on<sp/>the<sp/>size<sp/>of<sp/>the<sp/>board<sp/>used<sp/>for<sp/>the<sp/>same.<sp/>It<sp/>can<sp/>be<sp/>easyly<sp/>used<sp/>by<sp/>the<sp/>govt<sp/>and<sp/>the<sp/>private<sp/>sectors<sp/>to<sp/>advertise<sp/>theself<sp/>without<sp/>breaking<sp/>the<sp/>bank.<sp/></highlight></codeline>
+<codeline><highlight class="normal">##<sp/>Assumption</highlight></codeline>
+<codeline><highlight class="normal">As<sp/>we<sp/>know<sp/>simulide<sp/>dont<sp/>have<sp/>solar<sp/>panel<sp/>powered<sp/>battries<sp/>so<sp/>for<sp/>the<sp/>sole<sp/>purpose<sp/>of<sp/>successfull<sp/>simulation<sp/>we<sp/>have<sp/>assumed<sp/>that<sp/>as<sp/>a<sp/>voltage<sp/>source.<sp/>We<sp/>also<sp/>know<sp/>that<sp/>ATmega<sp/>328<sp/>in<sp/>simulide<sp/>has<sp/>predefined<sp/>VCC<sp/>and<sp/>GND<sp/>conection<sp/>so<sp/>we<sp/>have<sp/>not<sp/>supplied<sp/>any<sp/>votage<sp/>source<sp/>in<sp/>that.<sp/></highlight></codeline>
+<codeline><highlight class="normal">##<sp/>Folder<sp/>structure</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>Folder<sp/>|<sp/>Description<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>--<sp/>|<sp/>-----------<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>0_Abstrat<sp/>|<sp/>Brief<sp/>intoroduction<sp/>of<sp/>the<sp/>project<sp/>title<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>1_Requirements<sp/>|<sp/>Detailed<sp/>Requirements<sp/>of<sp/>our<sp/>project<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>2_Designs<sp/>|<sp/>All<sp/>Designs<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>3_Implementation<sp/>|<sp/>All<sp/>code<sp/>and<sp/>Makefile<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>4_TestPlan<sp/>|<sp/>Process<sp/>of<sp/>the<sp/>project<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>5_Report<sp/>|<sp/>Detaied<sp/>Process<sp/>and<sp/>Goal<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>6_Output<sp/>|<sp/>Images<sp/>and<sp/>videos<sp/>of<sp/>output<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">##<sp/>Project<sp/>photo</highlight></codeline>
+<codeline><highlight class="normal">![backup2](https://user-images.githubusercontent.com/104137902/164784132-c4f4faa6-8efe-4c70-887a-ad50ae339048.png)</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/0-Abstrat/README.md"/>
+  </compounddef>
+</doxygen>

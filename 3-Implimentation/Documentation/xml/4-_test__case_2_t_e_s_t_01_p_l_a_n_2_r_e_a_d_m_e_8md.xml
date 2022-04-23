@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="4-_test__case_2_t_e_s_t_01_p_l_a_n_2_r_e_a_d_m_e_8md" kind="file" language="Markdown">
+    <compoundname>README.md</compoundname>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline><highlight class="normal">#<sp/>The<sp/>Test<sp/>plan<sp/>of<sp/>this<sp/>project<sp/>is</highlight></codeline>
+<codeline><highlight class="normal">1.To<sp/>know<sp/>the<sp/>importnace<sp/>of<sp/>the<sp/>project.</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">2.To<sp/>know<sp/>the<sp/>work<sp/>in<sp/>specific<sp/>conditions.</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">3.Working<sp/>Principle<sp/>and<sp/>architecture<sp/>of<sp/>the<sp/>simulide.</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">4.To<sp/>verify<sp/>the<sp/>microcontroller<sp/>chip.</highlight></codeline>
+<codeline><highlight class="normal">##<sp/>Test<sp/>Cases<sp/></highlight></codeline>
+<codeline><highlight class="normal">###<sp/>Folder<sp/>structure</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>SL.<sp/>NO.<sp/>|<sp/>Description<sp/>|<sp/>Test<sp/>cases<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>--<sp/>|<sp/>------------<sp/>|<sp/>--------------<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>1<sp/>|<sp/><sp/><sp/>DC<sp/>motor<sp/>|<sp/>passed<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>2<sp/>|<sp/><sp/><sp/>Audio<sp/>out<sp/>|<sp/>passed<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>3<sp/>|<sp/><sp/><sp/>LED&apos;s<sp/>|<sp/>passed<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>4<sp/>|<sp/><sp/><sp/>voltage<sp/>source<sp/>|<sp/>passed<sp/>|</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/4-Test_case/TEST PLAN/README.md"/>
+  </compounddef>
+</doxygen>

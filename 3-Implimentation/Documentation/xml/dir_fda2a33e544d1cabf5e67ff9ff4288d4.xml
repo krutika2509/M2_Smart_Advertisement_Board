@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="dir_fda2a33e544d1cabf5e67ff9ff4288d4" kind="dir">
+    <compoundname>C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main</compoundname>
+    <innerdir refid="dir_2906060d8631fa6bbab967aae77c56be">C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/0-Abstrat</innerdir>
+    <innerdir refid="dir_1b7904352102ccd2b398d669426108c2">C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/1-Requirments</innerdir>
+    <innerdir refid="dir_a37cc10098e5853a262c980e0c4fa86a">C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/3-Implimentation</innerdir>
+    <innerdir refid="dir_cf675c1f5cd9297af4721eb2547cc224">C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/4-Test_case</innerdir>
+    <innerdir refid="dir_1eaeeccdfa35ac6d8a73a26cfcaa1eb7">C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/5-Report</innerdir>
+    <innerdir refid="dir_fb4baeb75e30b1ed2b063aab5c94483f">C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/6-Output</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/"/>
+  </compounddef>
+</doxygen>

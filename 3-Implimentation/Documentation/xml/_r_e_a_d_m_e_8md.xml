@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="_r_e_a_d_m_e_8md" kind="file" language="Markdown">
+    <compoundname>README.md</compoundname>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline><highlight class="normal">#<sp/>M2<sp/>Smart<sp/>Advertisement<sp/>Board</highlight></codeline>
+<codeline><highlight class="normal">Smart<sp/>Advertisement<sp/>Board<sp/>using<sp/>ATmega328<sp/>and<sp/>simuide</highlight></codeline>
+<codeline><highlight class="normal">In<sp/>today’s<sp/>world,<sp/>all<sp/>of<sp/>us<sp/>are<sp/>under<sp/>the<sp/>influence<sp/>of<sp/>‘Advertisement’.<sp/>Right<sp/>from<sp/>buying<sp/>groceries<sp/>to<sp/>children’s<sp/>study<sp/>materials,<sp/>finding<sp/>a<sp/>holiday<sp/>spot<sp/>to<sp/>watching<sp/>a<sp/>movie,<sp/>selecting<sp/>restaurant<sp/>for<sp/>dinner<sp/>to<sp/>booking<sp/>a<sp/>banquet<sp/>hall<sp/>for<sp/>special<sp/>events,<sp/>and<sp/>searching<sp/>educational<sp/>institutions<sp/>to<sp/>hunting<sp/>for<sp/>a<sp/>company<sp/>to<sp/>find<sp/>jobs,<sp/>almost<sp/>every<sp/>act<sp/>is<sp/>guided<sp/>and<sp/>decided<sp/>by<sp/>advertisements.</highlight></codeline>
+<codeline><highlight class="normal">In<sp/>this<sp/>project,<sp/>I<sp/>have<sp/>created<sp/>a<sp/>smart<sp/>advertising<sp/>board<sp/>that<sp/>will<sp/>get<sp/>electrictiy<sp/>form<sp/>the<sp/>solar<sp/>panel<sp/>and<sp/>will<sp/>store<sp/>it<sp/>in<sp/>the<sp/>battery<sp/>banks.<sp/>At<sp/>night<sp/>battery<sp/>packs<sp/>will<sp/>take<sp/>paower<sp/>from<sp/>the<sp/>battery<sp/>pack<sp/>and<sp/>it<sp/>will<sp/>help<sp/>to<sp/>glow<sp/>the<sp/>main<sp/>head<sp/>led<sp/>strip<sp/>and<sp/>also<sp/>the<sp/>atmega328.<sp/></highlight></codeline>
+<codeline><highlight class="normal">By<sp/>doing<sp/>this<sp/>porject<sp/>we<sp/>can<sp/>make<sp/>use<sp/>of<sp/>solar<sp/>power<sp/>in<sp/>terms<sp/>of<sp/>advertising<sp/>as<sp/>well,<sp/>From<sp/>a<sp/>long<sp/>time<sp/>i<sp/>have<sp/>seen<sp/>that<sp/>either<sp/>big<sp/>tv&apos;s<sp/>or<sp/>even<sp/>large<sp/>gigantic<sp/>banners<sp/>are<sp/>used<sp/>for<sp/>the<sp/>purpose<sp/>of<sp/>advertisement<sp/>and<sp/>in<sp/>a<sp/>nutshell<sp/>i<sp/>can<sp/>say<sp/>that<sp/>it<sp/>will<sp/>consume<sp/>more<sp/>power<sp/>as<sp/>compared<sp/>to<sp/>my<sp/>project.<sp/>But<sp/>it<sp/>all<sp/>changes<sp/>with<sp/>my<sp/>project<sp/>with<sp/>my<sp/>project<sp/>we<sp/>can<sp/>use<sp/>solar<sp/>power<sp/>and<sp/>simple<sp/>foled<sp/>banners<sp/>to<sp/>do<sp/>the<sp/>advertisement.<sp/>Which<sp/>can<sp/>attract<sp/>the<sp/>audience<sp/>by<sp/>its<sp/>audio<sp/>and<sp/>will<sp/>be<sp/>very<sp/>less<sp/>in<sp/>terms<sp/>of<sp/>the<sp/>energy<sp/>consumption<sp/>as<sp/>well.<sp/></highlight></codeline>
+<codeline><highlight class="normal">Smart<sp/>Advertisement<sp/>Board<sp/>can<sp/>have<sp/>as<sp/>many<sp/>advertisement<sp/>as<sp/>we<sp/>like<sp/>and<sp/>depending<sp/>on<sp/>the<sp/>size<sp/>of<sp/>the<sp/>board<sp/>used<sp/>for<sp/>the<sp/>same.<sp/>It<sp/>can<sp/>be<sp/>easyly<sp/>used<sp/>by<sp/>the<sp/>govt<sp/>and<sp/>the<sp/>private<sp/>sectors<sp/>to<sp/>advertise<sp/>theself<sp/>without<sp/>breaking<sp/>the<sp/>bank.<sp/></highlight></codeline>
+<codeline><highlight class="normal">##<sp/>Badges</highlight></codeline>
+<codeline><highlight class="normal">![This<sp/>is<sp/>an<sp/>image](https://api.codiga.io/project/33098/status/svg)</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">![This<sp/>is<sp/>an<sp/>image](https://api.codiga.io/project/33098/score/svg)</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">[![Codacy<sp/>Badge](https://app.codacy.com/project/badge/Grade/4a40c18127954803b5ce515e7639bbe1)](https://www.codacy.com/gh/krutika2509/M2_Smart_Advertisement_Board/dashboard?utm_source=github.com&amp;amp;utm_medium=referral&amp;amp;utm_content=krutika2509/M2_Smart_Advertisement_Board&amp;amp;utm_campaign=Badge_Grade)</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">![This<sp/>is<sp/>an<sp/>image](https://img.shields.io/github/issues/krutika2509/M2_Smart_Advertisement_Board)</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">![This<sp/>is<sp/>an<sp/>image](https://img.shields.io/github/forks/krutika2509/M2_Smart_Advertisement_Board)</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">##<sp/>Folder<sp/>structure</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>Folder<sp/>|<sp/><sp/>Description<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>--<sp/>|<sp/>------------<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>0_Abstrat<sp/>|<sp/>Brief<sp/>intoroduction<sp/>of<sp/>the<sp/>project<sp/>title<sp/>|<sp/></highlight></codeline>
+<codeline><highlight class="normal">|<sp/>1_Requirements<sp/>|<sp/><sp/>Detailed<sp/>Requirements<sp/>of<sp/>our<sp/>project<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>2_Designs<sp/>|<sp/><sp/>All<sp/>Designs<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>3_Implementation<sp/>|<sp/><sp/><sp/><sp/>All<sp/>code<sp/>and<sp/>Makefile<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>4_TestPlan<sp/>|<sp/><sp/>Process<sp/>of<sp/>the<sp/>project<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>5_Report<sp/>|<sp/><sp/><sp/><sp/>Detaied<sp/>Process<sp/>and<sp/>Goal<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>6_Output<sp/>|<sp/><sp/><sp/><sp/>Images<sp/>and<sp/>videos<sp/>of<sp/>output<sp/>|</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/README.md"/>
+  </compounddef>
+</doxygen>

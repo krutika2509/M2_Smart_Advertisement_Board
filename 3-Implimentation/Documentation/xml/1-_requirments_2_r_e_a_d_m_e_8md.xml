@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="1-_requirments_2_r_e_a_d_m_e_8md" kind="file" language="Markdown">
+    <compoundname>README.md</compoundname>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline><highlight class="normal">#<sp/>Details<sp/>requirements</highlight></codeline>
+<codeline><highlight class="normal">##<sp/>High<sp/>level<sp/>Requirements</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>ID<sp/>|<sp/><sp/>Description<sp/>|<sp/>Status<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>--<sp/>|<sp/>------------<sp/>|<sp/>------<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>HLR1<sp/>|<sp/><sp/><sp/><sp/>Atmega328<sp/>|<sp/>Microcontroller<sp/>used<sp/>for<sp/>the<sp/>process<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>HLR2<sp/>|<sp/><sp/><sp/><sp/>DC<sp/>Motor<sp/>|<sp/><sp/>To<sp/>chnge<sp/>the<sp/>advertisement<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>HLR3<sp/>|<sp/><sp/><sp/><sp/>Volt.<sp/>Source<sp/>|<sp/>Power<sp/>source<sp/><sp/>|</highlight></codeline>
+<codeline><highlight class="normal">##<sp/>Low<sp/>level<sp/>Requirements</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>ID<sp/>|<sp/><sp/>Description<sp/>|<sp/>Status<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>--<sp/>|<sp/>------------<sp/>|<sp/>------<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>LLR1<sp/>|<sp/>Audio<sp/>out<sp/>|<sp/><sp/><sp/><sp/>advertisement<sp/>sound<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|LLR2<sp/>|<sp/>Led&apos;s<sp/>|<sp/>For<sp/>Alternative<sp/>Blinking<sp/>|</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/1-Requirments/README.md"/>
+  </compounddef>
+</doxygen>

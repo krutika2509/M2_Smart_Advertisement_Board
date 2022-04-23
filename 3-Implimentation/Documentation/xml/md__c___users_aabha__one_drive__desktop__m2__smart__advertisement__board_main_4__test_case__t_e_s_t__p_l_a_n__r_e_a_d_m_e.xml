@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_4__test_case__t_e_s_t__p_l_a_n__r_e_a_d_m_e" kind="page">
+    <compoundname>md_C__Users_aabha_OneDrive_Desktop_M2_Smart_Advertisement_Board_main_4_Test_case_TEST_PLAN_README</compoundname>
+    <title>The Test plan of this project is</title>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>1.To know the importnace of the project.</para>
+<para>2.To know the work in specific conditions.</para>
+<para>3.Working Principle and architecture of the simulide.</para>
+<para>4.To verify the microcontroller chip. </para>
+<sect1 id="md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_4__test_case__t_e_s_t__p_l_a_n__r_e_a_d_m_e_1autotoc_md8">
+<title>Test Cases</title>
+<sect2 id="md__c___users_aabha__one_drive__desktop__m2__smart__advertisement__board_main_4__test_case__t_e_s_t__p_l_a_n__r_e_a_d_m_e_1autotoc_md9">
+<title>Folder structure</title>
+<para><table rows="5" cols="3"><row>
+<entry thead="yes"><para>SL. NO.   </para>
+</entry><entry thead="yes"><para>Description   </para>
+</entry><entry thead="yes"><para>Test cases    </para>
+</entry></row>
+<row>
+<entry thead="no"><para>1   </para>
+</entry><entry thead="no"><para>DC motor   </para>
+</entry><entry thead="no"><para>passed    </para>
+</entry></row>
+<row>
+<entry thead="no"><para>2   </para>
+</entry><entry thead="no"><para>Audio out   </para>
+</entry><entry thead="no"><para>passed    </para>
+</entry></row>
+<row>
+<entry thead="no"><para>3   </para>
+</entry><entry thead="no"><para>LED&apos;s   </para>
+</entry><entry thead="no"><para>passed    </para>
+</entry></row>
+<row>
+<entry thead="no"><para>4   </para>
+</entry><entry thead="no"><para>voltage source   </para>
+</entry><entry thead="no"><para>passed   </para>
+</entry></row>
+</table>
+</para>
+</sect2>
+</sect1>
+    </detaileddescription>
+    <location file="C:/Users/aabha/OneDrive/Desktop/M2_Smart_Advertisement_Board-main/4-Test_case/TEST PLAN/README.md"/>
+  </compounddef>
+</doxygen>
