@@ -15,6 +15,8 @@ Smart Advertisement Board can have as many advertisement as we like and dependin
 
 ![This is an image](https://img.shields.io/github/forks/krutika2509/M2_Smart_Advertisement_Board)
 
+[![Git Inspector](https://github.com/krutika2509/M2_Smart_Advertisement_Board/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/krutika2509/M2_Smart_Advertisement_Board/actions/workflows/gitinspector.yml)
+
 ## Folder structure
 | Folder | 	Description |
 | -- | ------------ |
